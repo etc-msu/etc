@@ -1,0 +1,30 @@
+.rst {}
+
+.rst .document {}
+
+.rst .document .title { margin-bottom: 15px; font-size: 25px; line-height: 30px; font-weight: normal; color: #111; }
+
+.rst .section {}
+
+.rst .section h1 { margin-bottom: 5px; font-weight: bold; font-size: 16px; line-height: 22px; color: #333; }
+.rst .section h2 { margin-bottom: 5px; padding-bottom: 5px; font-weight: normal; font-size: 14px; line-height: 19px; color: #777; border-bottom: 1px solid #eee; }
+.rst .section h3 { margin-bottom: 0; font-weight: normal; font-size: 16px; line-height: 22px; color: #777; }
+.rst .section h4 { margin-bottom: 0; font-weight: normal; font-size: 18px; line-height: 22px; color: #333; }
+.rst .section h5 { margin-bottom: 0; font-weight: normal; font-size: 18px; line-height: 22px; color: #333; }
+.rst .section h6 { margin-bottom: 0; font-weight: normal; font-size: 18px; line-height: 22px; color: #333; }
+.rst .section p {}
+
+.rst ul.simple { list-style-image: url(../images/bullet.gif); }
+
+.rst .citation-reference { font-size: 11px; color: #999; text-decoration: none; }
+.rst .citation-reference:hover { text-decoration: underline; }
+
+.rst .citation { font-size: 12px; line-height: 20px; color: #777; }
+.rst .citation em { display: none; }
+.rst .citation td.label {}
+
+.rst img.left { float: right; margin: 10px 0 10px 10px; }
+
+.rst table { width: 100%; }
+.rst table tr { border-bottom: 1px solid #eee; }
+.rst table td { padding: 5px; }

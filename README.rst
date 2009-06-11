@@ -12,3 +12,9 @@ Dependencies
 
 Django (http://www.djangoproject.com/download/)
 Docutils (http://pypi.python.org/pypi/docutils/0.4/)
+
+
+Adding a new page
+-----------------
+
+Adding new pages is as simple as making a new document in the docs folder. The url will be http://etc.missouristate.edu/the-documents-name/. You'll need to edit the index file so the main nav points to this new file.

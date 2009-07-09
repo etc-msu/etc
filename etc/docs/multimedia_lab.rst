@@ -8,7 +8,7 @@ Multimedia & Computer Labs
 Media Editing Labs: 836-6198
 ----------------------------
 
-.. image:: static/images/photos/multimedia_lab.jpg
+.. image:: static/images/photos/multimedia_lab4.jpg
    :class: left
    :width: 300
 
@@ -17,7 +17,7 @@ There are two types of video editing available:  The Casablanca AVIO non-linear 
 Multimedia Computer Lab: 836-6198
 ---------------------------------
 
-There are PC and Apple(Macintosh) computers in the media lab (North End of Meyer Library on the 2nd Floor) for patrons to scan and manipulate photos, slides and 35mm  negatives.
+There are PC and Apple (Macintosh) computers in the media lab (north end of Meyer Library on the 2nd Floor) for patrons to scan and manipulate photos, slides and 35mm  negatives.
 
 Software includes:
 ==================
@@ -29,6 +29,6 @@ Software includes:
 * iPhoto
 * iTunes
 * iDVD
-* Microsoft Office.
+* Microsoft Office
 
 .. [policy] Please refer to the Missouri State University policy on copyright and fair use. Check the price for production media (DVD-R, CD-R, etc1.).

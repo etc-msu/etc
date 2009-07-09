@@ -2,9 +2,19 @@
 Academic Scheduling
 ===================
 
-For assistance contact: 836-6626
-Shelley Netzer, Academic Scheduler,
-ShelleyNetzer@missouristate.edu
+.. image:: static/images/photos/Web-ShelleyN.jpg
+   :class: left
+   :width: 100
+   
+Shelley Netzer  
+==============
+| Academic Scheduler
+| 202 Meyer Library
+| Contact: 836-6625
+| Email: shelleynetzer@missouristate.edu
+| ETC Office Hours: M - F • 7:30 am - 4:00 pm (To be confirmed)
+|
+                                                                       
 
 As an Academic Scheduling Coordinator Shelley makes recommendations regarding space utilization, classroom technology and coordinates scheduling processes for academic departments to ensure appropriate access for all constituents.  She utilizes the Resource25 (R25) software system to input, track and monitor reservations and logistical information for scheduling request in an academic space. 
 

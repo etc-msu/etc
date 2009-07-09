@@ -7,15 +7,25 @@ Multimedia projects for faculty and staff, involving graphics, media production,
 To review your needs contact:
 =============================
 
-Andy Lokie, ETC Director, 836-4807  AndrewLokie@missouristate.edu
+| **Andrew P. Lokie, Jr** 
+| ETC Director,
+| Contact: 836-4807  | Email: AndrewLokie@missouristate.edu
+|
 
 For assistance in Graphic Services contact the **Extended Campus**:
 -------------------------------------------------------------------
 
-Valerie Cummings 836-6664,  ValerieCummings@missouristate.edu
+| **Valerie Cummings** 
+| Contact: 836-6664  | Email: ValerieCummings@missouristate.edu
+|
 
 For services listed below contact **Online Education**:
 -------------------------------------------------------
+
+| **Darren Young**
+| Contact: 936-6111
+| Email: DarrenYoung@missouristate.edu
+|
 
 * Digital Media Production
 * Blackboard Support

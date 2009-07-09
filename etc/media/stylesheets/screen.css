@@ -6,7 +6,7 @@ h4 { margin-bottom: 15px; font-size: 16px; line-height: 20px; color: #555; }
 h5 { margin-bottom: 0; font-size: 13px; line-height: 25px; color: #777; }
 h6 { margin-bottom: 5px; font-size: 16px; line-height: 25px; }
 h4 small { font-weight: normal; font-size: 12px; color: #999; }
-p,ul,ol,dl,table,div { font-size: 15px; line-height: 22px; color: #111; }
+p,ul,ol,dl,table,div { font-size: 14px; line-height: 22px; color: #111; }
 p, ul, ol, dl { margin-bottom: 22px; }
 dl dt { font-size: 15px; }
 dl dd { margin-bottom: 10px; padding: 0; font-size: 13px; line-height: 18px;}

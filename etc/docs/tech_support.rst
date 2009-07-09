@@ -4,11 +4,11 @@ Technical Support: 836-4553
 
 The ETC maintains a state-of-the-art electronic repair facility to diagnose and repair problems with media technology. Our technicians perform service, repair, and routine maintenance of electronic media, audiovisual equipment, and presentation systems. We also provide technical assistance and troubleshooting response for all ETC supported classrooms.
 
-* Repair, Replacement
-* Maintenance
+* **Repair, Replacement**
+* **Maintenance**
 * Installs
-* Classroom
-* Department
+      * Classroom
+      * Department
 
 Please call 836-4553 or use our online form to report a problem.
 

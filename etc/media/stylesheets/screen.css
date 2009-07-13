@@ -64,7 +64,10 @@ input[type=file] { background: none; padding: 0; border: none; }
 .photo .caption { display: block; padding: 5px; background: #222; font-size: 11px; line-height: 16px; color: #999; }
 .photo .caption a { color: #999; }
 
-.form th { padding-right: 75px; }
-.form input { width: 300px; }
+.form table th { width: 125px; }
+.form input { width: 300px; -webkit-border-radius: 6px; -moz-border-radius: 6px; }
+.form #submit { width: 100px; float: right; }
+.form table { width: 100%; }
+.form h1 { font-weight: normal; line-height: 1.2em; font-size: 25px; padding-bottom: 5px;}
 
-.tiny { font-size: .6em; color: #CCC;}
+.note { font-size: .7em; color: #CCC; line-height: 1.3em; }

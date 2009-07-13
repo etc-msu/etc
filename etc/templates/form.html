@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block fullbreadcrumb %}Educational Technology Center{% endblock %}
+
+{% block content %}
+<div class="form">
+	<form action="/etcetera/public_form" method="POST">
+		{% if form.errors %}
+			<p class="error">Please correct the error{{ form.errors|pluralize }} below.</p>
+		{% endif %}
+		<table>
+			<tr><th>Name</th><td>{{ form.name }}</td></tr>
+			<tr><th>Department</th><td>{{ form.department }}</td></tr>
+			<tr><th>Phone</th><td>{{ form.phone }}</td></tr>
+			<tr><th>Email</th><td>{{ form.email }}</td></tr>
+			<tr><th>Building</th><td>{{ form.building }}</td></tr>
+			<tr><th>Room #</th><td>{{ form.room }}</td></tr>
+			<tr><th>Equipment</th><td>{{ form.equipment_text }}</td></tr>
+			<tr><th>Barcode? <span class="tiny">[optional]</span></th><td>{{ form.barcode }}</td></tr>
+			<tr><th>Description</th><td>{{ form.description }}</td></tr>
+		</table>
+		<p><input type="submit" value="Submit &rarr;" /></p>
+	</form>
+</div>
+{% endblock %}

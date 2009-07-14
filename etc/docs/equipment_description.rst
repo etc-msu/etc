@@ -8,7 +8,7 @@ Video
 Projectors
 ----------
 
-* Data/Video Projector
+* `Data/Video Projector </equipment_desciption1.html>`_.
 * Data/Video Projector and Computer Cart
 * Overhead Transparency Projector
 * Portable Overhead Transparency Projector (suitcase style)

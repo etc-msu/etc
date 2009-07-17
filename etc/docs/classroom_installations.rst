@@ -34,6 +34,11 @@ Classroom Technology & Infrastructure Upgrade Installations for 2008.
 * View the approved new install upgrade list of classrooms.
 * View the approved lifecycle upgrade list of classrooms.
 
+
+**To view Previous year Installations and Lifecycles,**  `click here <installs_lifecycles.html>`_
+---------------------------------------------------------------------------------------------------
+|
+
 Important Information
 =====================
 

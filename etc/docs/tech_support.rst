@@ -3,7 +3,7 @@ Technical Support: 836-4553
 ===========================
 
 
-Please call 836-4553 or use our online form to report a problem.
+Please call 836-4553 or use our online service request form to report a problem or request installation or repair.
 
 * **Repair, Replacement**
 * **Maintenance**

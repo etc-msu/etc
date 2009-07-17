@@ -24,6 +24,14 @@
 
   <div id="body">
     <div id="nav">
+	<h4{% ifequal filename "about_us" %} class="on"{% endifequal %}><a href="/about_us.html">About us</a></h4>
+      <ul>
+        <li{% ifequal filename "mission" %} class="on"{% endifequal %}><a href="/mission.html">Mission statement</a></li>
+        <li{% ifequal filename "staff" %} class="on"{% endifequal %}><a href="/staff.html">Our staff</a></li>
+        <li{% ifequal filename "faq" %} class="on"{% endifequal %}><a href="/faq.html">FAQ</a></li>
+        <li{% ifequal filename "classroom_technology_faq" %} class="on"{% endifequal %}><a href="/classroom_technology_faq.html">Classroom technology</a></li>
+        <li{% ifequal filename "equipment_lending_faq" %} class="on"{% endifequal %}><a href="/equipment_lending_faq.html">Equipment lending</a></li>
+      </ul>
       <h4{% ifequal filename "classroom_technology" %} class="on"{% endifequal %}><a href="/classroom_technology.html">Classroom technology</a></h4>
       <ul>
         <li{% ifequal filename "classroom_upgrade_process" %} class="on"{% endifequal %}><a href="/classroom_upgrade_process.html">Classroom upgrade process</a></li>
@@ -34,6 +42,11 @@
         <li{% ifequal filename "training" %} class="on"{% endifequal %}><a href="/training.html">Training</a></li>
         <li{% ifequal filename "operating_instructions" %} class="on"{% endifequal %}><a href="/operating_instructions.html">Operating instructions</a></li>
         <li{% ifequal filename "duss_computer_support" %} class="on"{% endifequal %}><a href="/duss_computer_support.html">DUSS computer support</a></li>
+      </ul>
+      <h4{% ifequal filename "etc_labs" %} class="on"{% endifequal %}><a href="/etc_labs.html">ETC labs</a></h4>
+      <ul>
+        <li{% ifequal filename "multimedia_lab" %} class="on"{% endifequal %}><a href="/multimedia_lab.html">Multimedia lab</a></li>
+        <li{% ifequal filename "instructional_lab" %} class="on"{% endifequal %}><a href="/instructional_lab.html">Instructional lab</a></li>
       </ul>
       <h4{% ifequal filename "equipment_lending" %} class="on"{% endifequal %}><a href="/equipment_lending.html">Equipment lending</a></h4>
       <ul>
@@ -49,23 +62,10 @@
         <li{% ifequal filename "consulting" %} class="on"{% endifequal %}><a href="/consulting.html">Consulting and system design</a></li>
         <li{% ifequal filename "service_request" %} class="on"{% endifequal %}><a href="/service_request.html">Service request form</a></li>
       </ul>
-      <h4{% ifequal filename "etc_labs" %} class="on"{% endifequal %}><a href="/etc_labs.html">ETC labs</a></h4>
-      <ul>
-        <li{% ifequal filename "multimedia_lab" %} class="on"{% endifequal %}><a href="/multimedia_lab.html">Multimedia lab</a></li>
-        <li{% ifequal filename "instructional_lab" %} class="on"{% endifequal %}><a href="/instructional_lab.html">Instructional lab</a></li>
-      </ul>
       <h4{% ifequal filename "academic_scheduling" %} class="on"{% endifequal %}><a href="/academic_scheduling.html">Academic scheduling</a></h4>
       <ul><li></li></ul>
 	  <h4{% ifequal filename "creative_services" %} class="on"{% endifequal %}><a href="/creative_services.html">Creative services</a></h4>
       <ul><li></li></ul>
-      <h4{% ifequal filename "about_us" %} class="on"{% endifequal %}><a href="/about_us.html">About us</a></h4>
-      <ul>
-        <li{% ifequal filename "mission" %} class="on"{% endifequal %}><a href="/mission.html">Mission statement</a></li>
-        <li{% ifequal filename "staff" %} class="on"{% endifequal %}><a href="/staff.html">Our staff</a></li>
-        <li{% ifequal filename "faq" %} class="on"{% endifequal %}><a href="/faq.html">FAQ</a></li>
-        <li{% ifequal filename "classroom_technology_faq" %} class="on"{% endifequal %}><a href="/classroom_technology_faq.html">Classroom technology</a></li>
-        <li{% ifequal filename "equipment_lending_faq" %} class="on"{% endifequal %}><a href="/equipment_lending_faq.html">Equipment lending</a></li>
-      </ul>
     </div>
 
     <div class="content">

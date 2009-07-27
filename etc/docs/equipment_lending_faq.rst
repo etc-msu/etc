@@ -16,7 +16,7 @@ A: Yes. Patrons are asked when they will return equipment at the time of reserva
 A: Yes. All students, including graduate assistants are required to have a signed permission form before checking out equipment from ETC. Forms can be obtained from the ETC’s main office in Library 202 or the Equipment Lending area Library 003 Forms are also available from the Center’s web site at: http://www.missouristate.edu/etc
 
 **Q: Is there a minimum lead time for making Equipment Lending?**
-A: Yes
+A: Yes. ETC requires an one day notice for pickups.
 **Q: I need a technician for my event. Even if the event is on a weekend, is a technician available and how do I request one?**
 
 A: You may request a technician at the time that you reserve your equipment. All requests for technicians are done on a case-by-case basis depending on availability.  There is a charge for a technician based on the hourly rate of available/necessary staffing for all events held outside of the ETC Equipment Lending & Delivery area’s normal business hours (Monday - Friday 7:30 a.m.- 5:30 p.m.).

@@ -5,8 +5,8 @@ Equipment Lending Policies and Pick Up Procedures
 Faculty and Staff
 =================
 
-ETC requires a 3 day notice on deliveries.
---------------------------------------------
+**ETC requires a 3 day notice on deliveries** (Maroon color)
+
 
 Reservation of equipment  for pick-up or delivery can be done by phone (836-5778), fax (836-4554), in person (LIB 202), or on the web `Click here <http://etc.missouristate.edu/request.htm>`_. We operate on a first-come, first-serve basis. To insure availability of equipment and delivery service, please contact our office with your semester reservations as early as possible. The following information would be required when an order is placed:
 
@@ -17,8 +17,8 @@ Name, department and phone number
 * Place where equipment is to be delivered
 * Date and time of pick-up when finished
 
-ETC needs a one (1) day notice for pickups.
---------------------------------------------
+**ETC needs a one (1) day notice for pickups.** (Maroon color)
+
 
 Faculty are responsible for picking up and returning equipment borrowed.  Equipment can be picked up in the lower level of the Meyer Library from 7:45 am to 4:30 pm, Monday-Friday. Schedule ahead to make weekend arrangements. If you return the equipment in person, have your yellow copy signed by an ETC staff member as your receipt for returned equipment.
 
@@ -48,8 +48,8 @@ If you return the equipment in person, have your yellow copy signed by an ETC st
 Student Policy
 ===============
 
-ETC needs a one (1) day notice for pickups.
---------------------------------------------
+**ETC needs a one (1) day notice for pickups.** (Maroon color)
+
 
 Students and student organizations should contact the ETC office at 836-5778 regarding lending procedures since staff and/or faculty approval is required. Students are responsible for picking up and returning equipment borrowed. A copy of the required Student Organization Equipment Request form is available for `download <http://etc.missouristate.edu/pdf/student_request_form.pdf>`_.
 

@@ -11,7 +11,7 @@ Andrew P. Lokie, Jr
 | 202 Meyer Library| Contact: 836-4807| Email: andrewlokie@missouristate.edu| ETC Office Hours: M - F • 9 am - 4:00 pm
 |
 
-Welcome to the Educational Technology Center at Missouri State University.  Here at the ETC we have a great group of dedicated professionals who have a history of providing technology solutions and support with a tradition of quality service.  Whether it involves; using multimedia to assign engaging class projects or training activities, considering classroom design or presentation capabilities, looking for assistance in selecting or using media equipment, or exploring other instructional technology applications, the expertise in the ETC is available to assist you in meeting your needs.  
+Welcome to the Educational Technology Center at Missouri State University. The ETC has a great group of dedicated professionals who have a history of providing technology solutions and great support, with a tradition of quality service. As the Director, I bring over two decades of experience in Higher Education, providing practical insight into our processes. With a background in multimedia production and instructional design, I have a broad perspective for instructional technology applications involving classroom, blended, and distance learning approaches.Whether it involves; using multimedia to assign engaging class projects or training activities, considering classroom design or presentation capabilities, looking for assistance in selecting or using media equipment, or exploring other instructional technology applications, I encourage you to utilize the resources, services, and expertise available to you through the ETC.    
 
 --------------------------------------------------------------------------- 
 

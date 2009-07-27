@@ -1,6 +1,9 @@
-======
-Staff
-======
+=========
+Our Staff
+=========
+
+Main Staff
+==========
 
 +-------------------------------------------------+-----------------------------------------------+
 | .. image:: static/images/photos/Web-AndyL.jpg   |.. image:: static/images/photos/Web-BeckyG.jpg |
@@ -11,7 +14,7 @@ Staff
 | | Director and LIS Faculty                      | | Contact Coordinator                         |
 | | Educational Technology Center                 | | Educational Technology Center               |
 | | Contact: (417) 836-4807 Fax (417) 836-4554    | | Contact: (417) 836-5778. Fax (417) 836-4554 |
-| | Email: andrewlokie@missouristate.edu          | | Email: rebeccagrant@missouristate.edu       |
+| | Email: AndrewLokie@missouristate.edu          | | Email: RebeccaGrant@missouristate.edu       |
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
@@ -23,7 +26,7 @@ Staff
 | | Classroom Coordinator                         | | Multimedia Technology Specialist            |
 | | Educational Technology Center                 | | Educational Technology Center               |
 | | Contact: (417) 836-5959 Fax (417) 836-4554    | | Contact: (417) 836-    . Fax (417) 836-4554 |
-| | Email: davidcaravella@missouristate.edu       | | Email: benjaminkreeger@missouristate.edu    |
+| | Email: DavidCaravella@missouristate.edu       | | Email: BenjaminKreeger@missouristate.edu    |
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
@@ -35,10 +38,11 @@ Staff
 | | Senior Media Systems Specialist               | | Media Systems Technician                    |
 | | Educational Technology Center                 | | Educational Technology Center               |
 | | Contact: (417) 836-4553 Fax (417) 836-4554    | | Contact: (417) 836-4553 Fax (417) 836-4554  |
-| | Email: bobgerken@missouristate.edu            | | Email: jeffjohnson@missouristate.edu        |
+| | Email: BobGerken@missouristate.edu            | | Email: JeffJohnson@missouristate.edu        |
 +-------------------------------------------------+-----------------------------------------------+
 
-**Graduate Assistants**
+Graduate Assistants
+===================
 
 +-------------------------------------------------+-----------------------------------------------+ 
 | .. image:: static/images/photos/Web-DhanM.jpg   |.. image:: static/images/photos/Web-ReviY.jpg  |
@@ -48,31 +52,8 @@ Staff
 +=================================================+===============================================+
 | | Graduate Assistant                            | | Graduate Assistant                          |
 | | Educational Technology Center                 | | Educational Technology Center               |
-| | Email: dhandapani1@live.missouristate.edu     | | Email: Revianna87@live.missouristate.edu    |
+| | Email: Dhandapani1@live.missouristate.edu     | | Email: Revianna87@live.missouristate.edu    |
 +-------------------------------------------------+-----------------------------------------------+
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Student Workers
+===============

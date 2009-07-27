@@ -6,6 +6,8 @@
 
 .rst .document .title { margin-bottom: 15px; font-size: 25px; line-height: 30px; font-weight: normal; color: #111; }
 
+.rst a { text-decoration: underline; }
+
 .rst .section {}
 
 .rst .section h1 { margin-bottom: 5px; font-weight: bold; font-size: 16px; line-height: 22px; color: #333; }

@@ -21,6 +21,6 @@ Technical Support: 836-4553
       * Classroom
       * Department
       
-  The ETC performs the technology installations for the annual Classroom Upgrade Process. We also provide installation services for department installs, which includes any fees for the materials involved.
+  The ETC performs the technology installations for the annual `Classroom Upgrade Process <classroom_upgrade_process.html>`_. We also provide installation services for department installs, which includes any fees for the materials involved.
    
 

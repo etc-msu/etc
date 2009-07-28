@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 
+{% block script %}/static/js/workform.js{% endblock %}
+
 {% block breadcrumb %}Service Request Form{% endblock %}
 
 {% block content %}
@@ -11,6 +13,8 @@
 			<p class="error">Please correct the error{{ form.errors|pluralize }} below.</p>
 		{% endif %}
 		<table>
+		   <tr><th>Request Type</th><td>{{ form.work_type }}</td>
+		      <td class="note">If new equipment is being installed, choose Install. Otherwise, choose Problem.</td></tr>
 			<tr><th>Name</th><td>{{ form.name }}</td>
 				<td class="note">First and last name.</td></tr>
 			<tr><th>Department</th><td>{{ form.department }}</td>
@@ -23,11 +27,11 @@
 				<td class="note">The university location of the request.</td></tr>
 			<tr><th>Room #</th><td>{{ form.room }}</td>
 				<td class="note"></td></tr>
-			<tr><th>Equipment</th><td>{{ form.equipment_text }}</td>
+			<tr id="equipment_row"><th>Equipment</th><td>{{ form.equipment_text }}</td>
 				<td class="note">The equipment in question (make/model).</td></tr>
-			<tr><th>Barcode? <span class="note">[optional]</span></th><td>{{ form.barcode }}</td>
+			<tr id="barcode_row"><th>Barcode? <span class="note">[optional]</span></th><td>{{ form.barcode }}</td>
 				<td class="note">If present, the number on the ETC barcode sticker.	</td></tr>
-			<tr><th>Description</th><td>{{ form.description }}</td>
+			<tr id="description_row"><th>Description</th><td>{{ form.description }}</td>
 				<td class="note" class="last">Give a description of the problem. What's broken? What are the symptoms? Be as specific as possible so we can serve you best.</td></tr>
 			<tr><th></th><td><input type="submit" value="Submit &rarr;" id="submit" /></td><td></td></tr>
 		</table>

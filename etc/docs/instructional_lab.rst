@@ -4,41 +4,39 @@ Instructional Lab
 
 The ETC Instructional lab is a multipurpose lab used for performing a wide array of tasks and is equipped with dual boot platform computers (Mac and Windows). This facility offers an exciting opportunity to explore technology applications and new teaching & learning approaches and methodologies.
 
-CCPE (Center for Continuing and Professional Education)
-=======================================================
+Human Resources Professional Development
+==========================================
 
-CCPE Instructional Lab is a Faculty Development—Instructional Technology classroom primarily scheduled by CCPE.  To view the current schedule of training offered by CCPE, check the website, www.ccpe.missouristate.edu/fdiit. To schedule limited use of the classroom or for one-on-one assistance, call our main office, 836-5778 for an appointment.
+Information on the professional and personal development courses for faculty and staff are available at this site, http://www.missouristate.edu/human/training/computers.htm 
+
+Web Services
+================
+
+The Office of Web and New Media has four main functions: Web Press, Web Help Desk, System & campus web project coordination and implementation, and Web Works. Web Press training is available during various times of the semester and one can enroll using the below link: https://www.secure.missouristate.edu/idp/courses/IDP5100.asp?Code=WebPress&Who=web 
 
 Special Class / Sessions
-========================
+=========================
 
 Faculty can reserve this lab for special class sessions.
-
+  
 Training Purposes
-=================
+===================
 
 Training sessions for classroom technology, multimedia, and web-based applications.
-  
+
 Technology Review
-=================
+===================
 
 Faculty can practice and review technological application and methodology. Technology standardization is also reviewed for MSU standards.
 
-Mac Software
-------------
+Software Installed in the Dual boot computers:
 
-* Adobe Creative Suite Master collection
-* iLife
-* MS Office
-* SPSS
-
-PC Software
------------
-
-* CPS
-* MS Office
-* Smart Notebook
-* SPSS
-* Audacity
-
-*Please refer to the Missouri State University policy on copyright and fair use.
++-------------------------+------------------------------------------+
+| Windows                 | Mac OS X                                 |
++=========================+==========================================+
+| * CPS                   | * CPS                                    |
+| * MS Office             | * Adobe Creative Suite Master collection |
+| * Smart Notebook        | * iLife                                  |
+| * SPSS                  | * SPSS                                   |
+| * Audacity              | * MS Office                              |
++-------------------------+------------------------------------------+

@@ -21,6 +21,11 @@ Flatbed scanners
 
 For documents or printed photography that need to be scanned for digital use, the multimedia lab has several Mac and Windows stations equipped with flatbed EPSON scanners. Content can then be touched up and edited as needed in Photoshop, or content can be scanned straight to a file without the need to use Photoshop.
 
+
+.. image:: static/images/photos/MMlab1.JPG
+   :width: 320
+   :class: right
+   
 Multimedia stations
 -------------------
 

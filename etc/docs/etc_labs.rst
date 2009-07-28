@@ -10,8 +10,8 @@ Benjamin Kreeger
 ================
 | Multimedia Technology Specialist
 | 201H Meyer Library
-| Contact: 836-(whatever that phone is in there)
-| Email: benjaminkreeger@missouristate.edu
+| Contact: 836-6075
+| Email: Kreeger545@live.missouristate.edu
 | ETC Office Hours: M - F • 9:00 am - 3:00 pm
 |
 

@@ -11,7 +11,7 @@ Technical Services
 | Senior Media Systems Specialist              | Media Systems Technician                      |
 | 003C Meyer Library                           | 003 Meyer Library                             |
 | Contact: 836-4553                            | Contact: 836-4553                             |
-| Email: bobgerken@missouristate.edu           | Email: jeffjohnson@missouristate.edu          |
+| Email: BobGerken@missouristate.edu           | Email: JeffJohnson@missouristate.edu          |
 +----------------------------------------------+-----------------------------------------------+  
 
 |

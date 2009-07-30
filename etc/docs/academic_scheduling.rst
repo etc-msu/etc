@@ -18,6 +18,10 @@ Shelley Netzer
 
 As an Academic Scheduling Coordinator Shelley makes recommendations regarding space utilization, classroom technology and coordinates scheduling processes for academic departments to ensure appropriate access for all constituents.  She utilizes the Resource25 (R25) software system to input, track and monitor reservations and logistical information for scheduling request in an academic space. 
 
+.. image:: static/images/photos/Acd.schdl.JPG
+   :class: right
+   :width: 300
+
 The Academic Scheduling Coordinator:
 ------------------------------------
 

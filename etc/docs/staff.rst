@@ -13,7 +13,7 @@ Main Staff
 +=================================================+===============================================+
 | | Director and LIS Faculty                      | | Contact Coordinator                         |
 | | Educational Technology Center                 | | Educational Technology Center               |
-| | Contact: (417) 836-4807 Fax (417) 836-4554    | | Contact: (417) 836-5778. Fax (417) 836-4554 |
+| | Contact: (417) 836-4807 Fax (417) 836-4554    | | Contact: (417) 836-5778 Fax (417) 836-4554  |
 | | Email: AndrewLokie@missouristate.edu          | | Email: RebeccaGrant@missouristate.edu       |
 +-------------------------------------------------+-----------------------------------------------+
 
@@ -25,8 +25,8 @@ Main Staff
 +=================================================+===============================================+
 | | Classroom Coordinator                         | | Multimedia Technology Specialist            |
 | | Educational Technology Center                 | | Educational Technology Center               |
-| | Contact: (417) 836-5959 Fax (417) 836-4554    | | Contact: (417) 836-    . Fax (417) 836-4554 |
-| | Email: DavidCaravella@missouristate.edu       | | Email: BenjaminKreeger@missouristate.edu    |
+| | Contact: (417) 836-5959 Fax (417) 836-4554    | | Contact: (417) 836-6075 Fax (417) 836-4554  |
+| | Email: DavidCaravella@missouristate.edu       | | Email: Kreeger545@live.missouristate.edu    |
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
@@ -40,6 +40,20 @@ Main Staff
 | | Contact: (417) 836-4553 Fax (417) 836-4554    | | Contact: (417) 836-4553 Fax (417) 836-4554  |
 | | Email: BobGerken@missouristate.edu            | | Email: JeffJohnson@missouristate.edu        |
 +-------------------------------------------------+-----------------------------------------------+
+
++-------------------------------------------------+-----------------------------------------------+ 
+| .. image:: static/images/photos/Web-ShelleyN.jpg|.. image:: static/images/photos/Web-AdamB.jpg  |
+|  :width: 80                                     | :width: 80                                    |
++-------------------------------------------------+-----------------------------------------------+
+| Shelley M. Netzer                               |        Adam C. Beck                           |
++=================================================+===============================================+
+| | Academic Scheduling Coordinator               | | Equipment Lending Supervisor                |
+| | Educational Technology Center                 | | Educational Technology Center               |
+| | Contact: (417) 836-6625 Fax (417) 836-4554    | | Contact: (417) 836-6834 Fax (417) 836-4554  |
+| | Email: ShelleyNetzer@missouristate.edu        | | Email: AdamBeck@missouristate.edu           |
++-------------------------------------------------+-----------------------------------------------+
+
+|
 
 Graduate Assistants
 ===================
@@ -55,5 +69,40 @@ Graduate Assistants
 | | Email: Dhandapani1@live.missouristate.edu     | | Email: Revianna87@live.missouristate.edu    |
 +-------------------------------------------------+-----------------------------------------------+
 
+|
+
 Student Workers
 ===============
+
++-------------------------------------------------+-----------------------------------------------+ 
+| .. image:: static/images/photos/Web-EricT.jpg   |.. image:: static/images/photos/Web-DanaD.jpg  |
+|  :width: 80                                     | :width: 80                                    |
++-------------------------------------------------+-----------------------------------------------+
+| Eric Taylor                                     |        Dana Dominguez                         |
++=================================================+===============================================+
+| | Comp. lab assistant / Special projects        | | Comp. lab assistant                         |
+| | Educational Technology Center                 | | Educational Technology Center               |
++-------------------------------------------------+-----------------------------------------------+
+
++-------------------------------------------------+-----------------------------------------------+ 
+| .. image:: static/images/photos/Web-EricK.jpg   |.. image:: static/images/photos/Web-BlueL.jpg  |
+|  :width: 80                                     | :width: 80                                    |
++-------------------------------------------------+-----------------------------------------------+
+| Eric Khor                                       |        Blue Lightle                           |
++=================================================+===============================================+
+| | Comp. lab assistant                           | | Comp. lab assistant                         |
+| | Educational Technology Center                 | | Educational Technology Center               |
++-------------------------------------------------+-----------------------------------------------+
+
+
+
+
+
+
+
+
+
+
+
+
+

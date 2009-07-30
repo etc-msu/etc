@@ -7,12 +7,12 @@ Classroom Technology
    :width: 100
 
 David Caravella
-===============
+================
 
 | Classroom Coordinator
 | 202 Meyer Library
 | Contact: 836-5959
-| Email: davidcaravella@missouristate.edu
+| Email: DavidCaravella@missouristate.edu
 | ETC Office Hours: M - F • 7:30 am - 4:00 pm
 |
 

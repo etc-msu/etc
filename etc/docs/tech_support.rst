@@ -3,7 +3,7 @@ Technical Support: 836-4553
 ===========================
 
 
-.. image:: static/images/photos/etc_tech.jpg     
+.. image:: static/images/photos/TS-Jeff.jpg     
  :class: right                                                                      
  :width: 250
  

@@ -5,6 +5,10 @@ Equipment Lending Policies and Pick Up Procedures
 Faculty and Staff
 =================
 
+.. image:: static/images/photos/Eq.Len.jpg
+   :width: 300
+   :class: left
+
 **ETC requires a 3 day notice on deliveries** (Maroon color)
 
 

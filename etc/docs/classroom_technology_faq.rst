@@ -38,58 +38,37 @@ A: Please feel free to contact the Classroom Coordinator, `David Caravella <mail
 
 
 Student Response System (SRS) Update:
------------------------------------------------
-
-*Having Trouble?*
+---------------------------------------------*Having Trouble?*
 Faculty and students who are having trouble setting up or using the eInstruction Student Response System (SRS) should contact eInstruction’s toll free technical support line below:
-| Faculty Technical Support Line 888-333-4988| Monday thru Thursday 7:00AM – 6:00PM and Friday 7:00AM – 5:00PM CST
-|  
-| Student Technical Support Line 888-333-4988| Monday thru Friday 7:00AM – 8:00PM CST
-
-Additional support information can be found at `eInstruction Customer Support <http://iwl.einstruction.com/redirect.php?r=/support_downloads/index.html>`_.
-
-Faculty may also contact `David Caravella <mailto:davidcaravella@missouristate.edu>`_ at 65959 for assistance or information.
-
-New! Student Response System Training
---------------------------------------------------------------
-
-Butch Holland from eInstruction will be at Missouri State University January 15, 2008 to provide training in the use of their CPS Student Response System (SRS). This training is intended both for faculty who are already utilizing the eInstruction CPS SRS, and those wanting to who have no prior experience with the system. This training will provide users with a hands-on demonstration of eInstruction’s classic CPS for PC and their newest software release, CPS for PowerPoint. This new software allows instructors to automatically create CPS question slides directly in Microsoft PowerPoint, and will make current CPS/PowerPoint users much more efficient in their lesson preparation. Butch will also be available 
+| Faculty Technical Support Line 888-333-4988| Monday thru Thursday 7:00AM – 6:00PM and Friday 7:00AM – 5:00PM CST| Student Technical Support Line 888-333-4988| Monday thru Friday 7:00AM – 8:00PM CST
+| Additional support information can be found at `eInstruction Customer Support <http://einstruction.com/support_downloads/index.html>`_
+| Faculty may also contact David Caravella at X65959 for assistance or information.  
+|
 
 
+| August 31, 2006| **Most Common SRS Problems**
+| | While the implementation of the eInstruction Student Response System (SRS) on the Missouri State University campus this fall has gone smoothly, there have been several issues which have arisen that have a common theme. The problem solution chart below may assist you resolving some of the most common issues encountered.
+|
 
+| **Symptom**| Student’s transponder pads continually display “joining” but never join class session.
+|
+| **Possible Causes & Solutions**| **(No one in the class can join)**| **Cause:** Instructor forgot to choose correct class when starting polling.| **Solution:** Close CPS session, select question mode, select correct class from pull-down menu. 
+|
 
+| **Cause:** Receiver is unplugged or missing.| **Solution:** Trace USB ports and ensure that there is one going to the CPS receiver and that the unit is lit and displaying a red LED number. If receiver is there but not connected plug unto an available USB port. If the receiver is missing contact the ETC at 836-5778.
+|
+| **(Some students are unable to join the class, but others are)**
+| **Cause:** Student(s) have not enrolled their transponders in your class.
+| **Solution:** Ensure that students were given and used the correct class key code. Students then must go to the `eInstruction web site <http://www.einstruction.com/>`_
+| select the “student” option at the top of the page, select Missouri State University from the pull-down menu and then log into their account and select “register for a class” NOTE: Many students believe that once they have registered their transponders that they completed the entire registration process, 
+| this only creates their eInstruction account, they must then register their transponder in each class they will be using the system in using the class key code given to them by their instructors.
+|
 
+| **Cause:** Student may have a defective transponder pad.| **Solution:** Student should contact eInstruction technical support at 1-888-333-4988 for RMA. Students will then need to return their transponder pad and RMA form to the place of purchase for a new unit. NOTE: Students obtaining a replacement transponder pad MUST log into their eInstruction account and select “change” next to the serial number listed on their account, this will associate any classes which the defective transponder was registered in to the new transponder pad.
+|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| **For more trouble shooting tips:**| Contact eInstructions toll free technical support line at 1-888-333-4988
+|| Check eInstructions knowledge base to search for solutions to common issues and to view step-by-step guides to common CPS tasks at: http://kb.einstruction.com
+|| Instructors may also contact David Caravella at x65959
+|
 

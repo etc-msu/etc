@@ -8,7 +8,7 @@
 <div class="form">
 <h1>Service Request Form</h1>
 	<p>Please provide the information requested below, including a description of the request. This information will be sent to our system and you will receive a confirmation email once this request reaches our system.</p>
-	<form action="/etcetera/public_form" method="POST">
+	<form action="/etcetera/public_form/" method="POST">
 		{% if form.errors %}
 			<p class="error">Please correct the error{{ form.errors|pluralize }} below.</p>
 		{% endif %}

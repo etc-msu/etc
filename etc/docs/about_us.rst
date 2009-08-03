@@ -1,13 +1,13 @@
-================
+========
 About Us
-================
+========
 
 .. image:: static/images/photos/Web-AndyL.jpg
    :class: left
    :width: 100
    
 Andrew P. Lokie, Jr
-===================                                  
+===================                                 
 | Director and LIS Faculty
 | 202 Meyer Library
 | Contact: 836-4807

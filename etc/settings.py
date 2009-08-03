@@ -1,12 +1,13 @@
 import os
 
-DEBUG = True
-DATABASE_ENGINE = 'postgresql_psycopg2'
-DATABASE_NAME = 'etcetera'
-DATABASE_USER = 'etcetera'
-DATABASE_PASSWORD = 'etcetera'
-DATABASE_HOST = 'localhost'
-DATABASE_PORT = ''
+DEBUG = False
+if DEBUG == False:
+	DATABASE_ENGINE = 'postgresql_psycopg2'
+	DATABASE_NAME = 'etcetera'
+	DATABASE_USER = 'etcetera'
+	DATABASE_PASSWORD = 'etcetera'
+	DATABASE_HOST = 'localhost'
+	DATABASE_PORT = ''
 ROOT_URLCONF = 'etc.urls'
 PROJECT_DIR = os.path.dirname(__file__)
 TEMPLATE_DIRS = (PROJECT_DIR + '/templates/',)

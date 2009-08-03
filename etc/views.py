@@ -12,4 +12,4 @@ def service(request):
 	return render_to_response("workform.html", context, context_instance=RequestContext(request))
 
 def tempredirect(request, path):
-	return redirect("/old/%s.htm" % path)
+	return redirect("/%s.htm" % path)

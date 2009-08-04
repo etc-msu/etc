@@ -71,7 +71,7 @@ Technical Questions FAQ
 **Q**: I need to record a video and ultimately need to have it in DVD format. How do I accomplish this?
 -------------------------------------------------------------------------------------------------------
 
-**A**: You can checkout a MiniDV camcorder and a FireWire cable from the ETC to record your presentation. You can then take your MiniDV tape and camcorder to the Multimedia Lab on the 2nd floor of the Meyer Library. With the camcorder and FireWire cable, you can transfer your MiniDV to iMovie and iDVD on the Apple iMac workstations in the lab. While lab assistants can provide some guidance, the lab is self-service. There are step-by-step iMovie and iDVD video tutorials located on the desktop of the iMac workstations. Please contact the Multimedia Lab Help Desk at 836-6075 for more information.
+**A**: You can checkout a MiniDV camcorder and a FireWire cable from the ETC to record your presentation. You can then take your MiniDV tape and camcorder to the Multimedia Lab on the 2nd floor of the Meyer Library. With the camcorder and FireWire cable, you can transfer your MiniDV to iMovie and iDVD on the Apple iMac workstations in the lab. While lab assistants can provide some guidance, the lab is self-service. There are step-by-step iMovie and iDVD video tutorials located on the desktop of the iMac workstations. Please contact the Multimedia Lab Help Desk at 836-6096 for more information.
 
 **Q**: I have an Apple laptop and want to hook it up to the projector I checkout from you. What do I need?
 ----------------------------------------------------------------------------------------------------------

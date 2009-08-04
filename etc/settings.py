@@ -1,6 +1,6 @@
 import os
 
-DEBUG = True
+DEBUG = False
 if DEBUG == False:
 	DATABASE_ENGINE = 'postgresql_psycopg2'
 	DATABASE_NAME = 'etcetera'

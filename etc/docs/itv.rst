@@ -25,7 +25,7 @@ ITV Classrooms
 
 | **ITV Classrooms:**
 | Glass 236
-| Kemper 205 – after 4:00pm
+| Kemper 205 (after 4:00pm)
 | Karls 234
 | Karls 239
 | Hill 306

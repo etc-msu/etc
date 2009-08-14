@@ -2,6 +2,11 @@
 Training: Using Crestron Control Systems
 ========================================
 
+Registration
+============
+
+Please visit the `Human Resources Registration Site <https://www.secure.missouristate.edu/idp/courses/IDP5100.asp?Code=ETC700&who=ETC>`_ to register for this training session.
+
 Description
 ===========
 
@@ -32,6 +37,8 @@ Thursday August 20th
 | 9:30am – 10:15am          | Siceluff Hall 412         |
 +---------------------------+---------------------------+
 | 11:00am – 11:45am         | Siceluff Hall 412         |
++---------------------------+---------------------------+
+| 2:00pm - 2:45pm           | Cheek Hall 102            |
 +---------------------------+---------------------------+
 
 Monday August 24th

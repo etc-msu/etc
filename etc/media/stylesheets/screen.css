@@ -1,4 +1,4 @@
-/* @override http://localhost:8000/static/stylesheets/screen.css */
+/* @override http://localhost/_media/css/screen.css */
 h1,h2,h3,h4,h5,h6 { color: #111; }
 h1 { margin-bottom: 5px; font-size: 28px; line-height: 35px; }
 h2 { margin-bottom: 5px; font-size: 30px; line-height: 35px; }
@@ -71,3 +71,6 @@ input[type=file] { background: none; padding: 0; border: none; }
 .form h1 { font-weight: normal; line-height: 1.2em; font-size: 25px; padding-bottom: 5px;}
 
 .note { font-size: .7em; color: #CCC; line-height: 1.3em; }
+.errorlist { color: #F00; font-size: 1em; list-style: none; padding: 0px; }
+tr.errorlist { background-color: #ffe1e1; }
+tr.errorlist th { padding-left: 5px; }

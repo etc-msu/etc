@@ -5,7 +5,7 @@ Training: Using Classroom Spectrum A/V Computer Carts
 Registration
 ============
 
-Please visit the `Human Resources Registration Site <https://www.secure.missouristate.edu/idp/courses/IDP5100.asp?Code=ETC100&who=ETC>`_ to register for this training session.
+Please visit the `Human Resources Registration Site <https://www.secure.missouristate.edu/idp/courses/IDP5100.asp?Code=ETC1600&who=ETC>`_ to register for this training session.
 
 Description
 ===========

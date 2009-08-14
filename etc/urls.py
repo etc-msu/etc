@@ -7,7 +7,7 @@ urlpatterns = patterns('',
 if DEBUG == True:
     urlpatterns += patterns('',
 		url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': PROJECT_DIR + '/media'}),
-		url(r'^service_request.html$', 'etc.views.tempredirect', {'path': 'etcetera/service_form'}),
+		url(r'^service_request.html$', 'etc.views.tempredirect', {'path': 'etcetera/service/form'}),
 	)
 
 if DEBUG == False:

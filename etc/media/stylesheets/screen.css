@@ -1,4 +1,7 @@
-/* @override http://localhost/_media/css/screen.css */
+/* @override 
+	http://localhost/_media/css/screen.css
+	http://localhost/static/stylesheets/screen.css
+*/
 h1,h2,h3,h4,h5,h6 { color: #111; }
 h1 { margin-bottom: 5px; font-size: 28px; line-height: 35px; }
 h2 { margin-bottom: 5px; font-size: 30px; line-height: 35px; }
@@ -66,6 +69,7 @@ input[type=file] { background: none; padding: 0; border: none; }
 
 .form table th { width: 125px; }
 .form input { width: 300px; -webkit-border-radius: 6px; -moz-border-radius: 6px; }
+.form input#id_coordinator_check { width: auto; margin-left: 15px; }
 .form #submit { width: 100px; float: right; }
 .form table { width: 100%; }
 .form h1 { font-weight: normal; line-height: 1.2em; font-size: 25px; padding-bottom: 5px;}

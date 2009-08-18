@@ -9,7 +9,7 @@ Main Staff
 | .. image:: static/images/photos/Web-AndyL.jpg   |.. image:: static/images/photos/Web-BeckyG.jpg |
 |  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
-| Andrew P. Lokie, Jr                             | Rebecca L. Grant                              |
+| Andrew P. Lokie, Jr                             | Rebecca L. Grant, CPS                         |
 +=================================================+===============================================+
 | | Director and LIS Faculty                      | | Contact Coordinator                         |
 | | Educational Technology Center                 | | Educational Technology Center               |
@@ -60,7 +60,7 @@ Graduate Assistants
 
 +-------------------------------------------------+-----------------------------------------------+ 
 | .. image:: static/images/photos/Web-DhanM.jpg   |.. image:: static/images/photos/Web-ReviY.jpg  |
-|  :width: 80                                     | :width: 80                                    |
+|  :width: 90                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 | Dhandapani Manohar                              | Revianna Yanry                                |
 +=================================================+===============================================+

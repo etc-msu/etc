@@ -30,5 +30,6 @@ urlpatterns += patterns('django.views.generic.simple',
 
 urlpatterns += patterns('',
 	url(r'^$', 'django.views.generic.simple.direct_to_template', {'template': 'index.html'}),
+	url(r'^operating_instructions.html$', 'django.views.generic.simple.direct_to_template', {'template': 'operating_instructions.html'}),
 	url(r'^(?P<path>.*)$', 'etc.views.page'),
 )

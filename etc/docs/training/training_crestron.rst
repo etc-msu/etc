@@ -2,6 +2,11 @@
 Training: Using Crestron Control Systems
 ========================================
 
+Tutorial Video
+==============
+
+To view a brief tutorial video on how to use the Crestron Control System, visit our `Operating Instructions <../operating_instructions.html>`_ page.
+
 Registration
 ============
 

@@ -23,7 +23,7 @@ For services listed below contact **Online Education**:
 -------------------------------------------------------
 
 | **Darren Young**
-| Contact: 936-6111
+| Contact: 836-6111
 | Email: DarrenYoung@missouristate.edu
 |
 

@@ -21,4 +21,4 @@ The Educational Technology Center’s Classroom Coordinator, David Caravella, ca
 Departmentally Funded Classroom Upgrades
 ========================================
 
-If you are considering a departmentally funded classroom installation, you may want review the standard configurations for classroom levels that have been established at Missouri State University. After reviewing this information you should contact David Caravella, at 65959, to discuss the specifics of what you would like to do.
+If you are considering a departmentally funded classroom installation, you may want review the standard configurations for classroom levels that have been established at Missouri State University. After reviewing this information you should contact David Caravella, at 6-5959, to discuss the specifics of what you would like to do.

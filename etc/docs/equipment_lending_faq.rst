@@ -18,7 +18,7 @@ General Equipment Lending FAQ
 **Q**: I’m a student. Do I need a signed permission form, and where do I get one?
 ---------------------------------------------------------------------------------
 
-**A**: Yes. All students, including graduate assistants are required to have a signed permission form before checking out equipment from ETC. Forms can be obtained from the ETC’s main office in Library 202, or the Equipment Lending Area in Library 003. Forms are also available online for `faculty </faculty_request_form.html>`_ and `students </pdf/student_request_form.pdf>`_.
+**A**: Yes. All students, including graduate assistants are required to have a signed permission form before checking out equipment from ETC. Forms can be obtained from the ETC’s main office in Library 202, or the Equipment Lending Area in Library 003. Forms are also available online for `faculty </faculty_request_form.html>`_ and `students <static/pdf/student_request_form.pdf>`_.
 
 **Q**: Is there a minimum lead time for making Equipment Lending?
 -----------------------------------------------------------------

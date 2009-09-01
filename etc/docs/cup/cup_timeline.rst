@@ -7,9 +7,9 @@ REVISED: April, 2009
 January 1 - April 1
 ===================
 
-Should a theme or priority be proposed, the COUC will convene prior to January 31 approve or deny the proposal.
+Should a theme or priority be proposed, the Classroom Upgrade Oversight Committee,CUOC will convene prior to January 31 approve or deny the proposal.
 
-Should a priority or theme be approved by the COUC, all involved departments will develop rough cost estimates to determine if the theme or priority is feasible with available funding. These estimates are to be developed by March 31, 2009 and distributed to all COUC members.
+Should a priority or theme be approved by the CUOC, all involved departments will develop rough cost estimates to determine if the theme or priority is feasible with available funding. These estimates are to be developed by March 31, 2009 and distributed to all CUOC members.
 
 May 1 - August 31
 =================

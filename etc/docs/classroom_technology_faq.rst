@@ -13,7 +13,7 @@ General Classroom Technology FAQ
 **Q**: What, if any, schedule does the process follow?
 ------------------------------------------------------
 
-**A**: See the `Classroom Upgrade Process Timeline <cup_timeline.html>`_.
+**A**: See the `Classroom Upgrade Process Timeline <cup/cup_timeline.html>`_.
 
 **Q**: How do I submit a proposal for consideration under the classroom upgrade process?
 ----------------------------------------------------------------------------------------

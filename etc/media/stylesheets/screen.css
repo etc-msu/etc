@@ -36,13 +36,17 @@ input[type=file] { background: none; padding: 0; border: none; }
 
 #body { margin: 0 auto 20px auto; padding-left: 25px; width: 900px; overflow: hidden; background: url(../images/etc.gif) no-repeat; }
 
-#nav { float: left; margin: 65px 20px 0 0; padding-top: 10px; width: 220px; background: #f0eee4; }
-#nav h4 { margin: 0; padding: 0 10px; border-bottom: 1px solid #d9d9ce; font: bold 11px/19px verdana, arial, sans-serif; color: #930000; }
-#nav ul { list-style: none; padding: 0; font: normal 11px/16px verdana, arial, sans-serif; }
+#nav { float: left; margin: 0 20px 0 0; padding-top: 10px; width: 220px; }
+#nav h4 { margin: 0; padding: 0 10px; background: #f0eee4; border-bottom: 1px solid #d9d9ce; font: bold 11px/19px verdana, arial, sans-serif; color: #930000; }
+#nav ul { list-style: none; margin: 0; padding: 0 0 20px 0; background: #f0eee4; font: normal 11px/16px verdana, arial, sans-serif; }
+#nav ul li { position: relative; }
 #nav ul li a { display: block; padding: 2px 10px; border-bottom: 1px solid #d9d9ce; color: #4a0010; text-decoration: none; }
 #nav ul li a:hover { background: #4a0010; color: #fff; text-decoration: none; }
 #nav ul li.on a { background: #d9d9ce; }
 #nav ul li.on a:hover { color: #4a0010; cursor: default; }
+#nav ul li ul { position: absolute; display: none; top: 0; left: 180px; padding: 0; width: 220px; background: #f0eee4; border: 5px solid #d9d9ce; z-index: 999; }
+#nav .home { background: none; }
+#nav .home a { display: block; height: 65px; overflow: none; text-indent: -1000px; }
 
 .content { float: left; width: 640px; }
 

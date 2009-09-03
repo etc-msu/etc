@@ -1,6 +1,6 @@
 import os
 
-DEBUG = True
+DEBUG = False
 ROOT_URLCONF = 'etc.urls'
 PROJECT_DIR = os.path.dirname(__file__)
 TEMPLATE_DIRS = (PROJECT_DIR + '/templates/',)

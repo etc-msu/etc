@@ -34,7 +34,8 @@ Late fees apply to all faculty, staff and student patrons.  Please pay your late
 Effective December 16th, 2008
 
 +----------------------------------+------------+
-| 30 minutes to 1 hour late        |      $1.00 |+----------------------------------+------------+
+| 30 minutes to 1 hour late        |      $1.00 |
++----------------------------------+------------+
 | 1 hour to all day late           |      $6.00 |
 +----------------------------------+------------+
 | Each additional day late         | plus $5.00 |
@@ -43,11 +44,16 @@ Effective December 16th, 2008
 *A day is defined by ETC equipment area hours: 7:45 am - 4:30 pm*
 
 Please note: 
-• Submitting this form confirms that you have reviewed, agree to, and are responsible for the Equipment Lending policies followed by the ETC.  • Submission of this form does not guarantee the equipment availability; call the ETC to confirm if you do not receive an e-mail confirmation. • ETC needs prior notice of 3 business days on all deliveries, and 1 business day notice for requestor pickup requests. 
 
-`Click here for Faculty/Staff Equipment Request Form <http://etc.missouristate.edu/request.htm>`_.
+• Submitting this form confirms that you have reviewed, agree to, and are responsible for the Equipment Lending policies followed by the ETC.  
+• Submission of this form does not guarantee the equipment availability; call the ETC to confirm if you do not receive an e-mail confirmation. 
+• ETC needs prior notice of 3 business days on all deliveries, and 1 business day notice for requestor pickup requests. 
 
-If you return the equipment in person, have your yellow copy signed by an ETC staff member as your receipt for returned equipment.       
+`Click here for Faculty/Staff Equipment Request Form </faculty_request_form.html>`_.
+
+If you return the equipment in person, have your yellow copy signed by an ETC staff member as your receipt for returned equipment.
+
+       
 
 Student Policy
 ===============
@@ -55,7 +61,7 @@ Student Policy
 **ETC needs a one (1) day notice for pickups.** (Maroon color)
 
 
-Students and student organizations should contact the ETC office at 836-5778 regarding lending procedures since staff and/or faculty approval is required. Students are responsible for picking up and returning equipment borrowed. A copy of the required Student Organization Equipment Request form is available for `download <http://etc.missouristate.edu/pdf/student_request_form.pdf>`_.
+Students and student organizations should contact the ETC office at 836-5778 regarding lending procedures since staff and/or faculty approval is required. Students are responsible for picking up and returning equipment borrowed. A copy of the required Student Organization Equipment Request form is available for `download </pdf/student_request_form.pdf>`_.
 
 | Equipment Lending: 836-5778
 | Delivery Helpline: 836-5350
@@ -73,7 +79,8 @@ Late fees apply to all faculty, staff and student patrons.  Please pay your late
 Effective December 16th, 2008
 
 +----------------------------------+------------+
-| 30 minutes to 1 hour late        |      $1.00 |+----------------------------------+------------+
+| 30 minutes to 1 hour late        |      $1.00 |
++----------------------------------+------------+
 | 1 hour to all day late           |      $6.00 |
 +----------------------------------+------------+
 | Each additional day late         | plus $5.00 |

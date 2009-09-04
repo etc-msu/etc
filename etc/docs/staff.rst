@@ -94,6 +94,20 @@ Student Workers
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
++-------------------------------------------------+-----------------------------------------------+
+| .. image:: static/images/photos/web_chrisA.jpg  |.. image:: static/images/photos/Web_MattS.jpg  |
+|  :width: 80                                     | :width: 80                                    |
++-------------------------------------------------+-----------------------------------------------+
+|  Chris Ansley                                   +  Matt Siegmann                                |
++=================================================+===============================================+
+| | Equipment Lending                             | | Equipment Lending                           |
+| | Educational Technology Center                 | | Educational Technology Center               |
++-------------------------------------------------+-----------------------------------------------+
+
+
+
+
+
 
 
 

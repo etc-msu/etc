@@ -9,6 +9,7 @@ if DEBUG == True:
 		url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': PROJECT_DIR + '/media'}),
 		# This is what service will be soon
 		url(r'^service_request.html$', 'etc.views.tempredirect', {'path': 'etcetera/service/form'}),
+		url(r'^faculty_request_form.html$', 'etc.views.tempredirect', {'path': 'etcetera/checkout/form'}),
 	)
 
 if DEBUG == False:
@@ -31,5 +32,6 @@ urlpatterns += patterns('django.views.generic.simple',
 urlpatterns += patterns('',
 	url(r'^$', 'django.views.generic.simple.direct_to_template', {'template': 'index.html'}),
 	url(r'^operating_instructions.html$', 'django.views.generic.simple.direct_to_template', {'template': 'operating_instructions.html'}),
+	# The big one.
 	url(r'^(?P<path>.*)$', 'etc.views.page'),
 )

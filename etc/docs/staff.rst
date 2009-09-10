@@ -75,22 +75,42 @@ Student Workers
 ===============
 
 +-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-EricT.jpg   |.. image:: static/images/photos/Web-DanaD.jpg  |
-|  :width: 80                                     | :width: 80                                    |
+| .. image:: static/images/photos/Web-MelodyG.jpg |.. image:: static/images/photos/Web-JeremyE.jpg|
+|  :width: 90                                     | :width: 90                                    |
 +-------------------------------------------------+-----------------------------------------------+
-| Eric Taylor                                     | Dana Dominguez                                |
+| Melody Gilbert                                  | Jeremy Evans                                  |
 +=================================================+===============================================+
-| | Multimedia lab assistant / Special projects   | | Multimedia lab assistant                    |
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-EricK.jpg   |.. image:: static/images/photos/Web-BlueL.jpg  |
+| .. image:: static/images/photos/Web-Brandi.jpg  |.. image:: static/images/photos/Web-EricT.jpg  |
+|  :width: 90                                     | :width: 80                                    |
++-------------------------------------------------+-----------------------------------------------+
+| Brandi                                          | Eric Taylor                                   |
++=================================================+===============================================+
+| | Educational Technology Center                 | | Multimedia lab assistant / Special projects |
+|                                                 | | Educational Technology Center               |
++-------------------------------------------------+-----------------------------------------------+
+
+
++-------------------------------------------------+-----------------------------------------------+ 
+| .. image:: static/images/photos/Web-BlueL.jpg   |.. image:: static/images/photos/Web-DanaD.jpg  |
 |  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
-| Eric Khor                                       | Blue Lightle                                  |
+| Blue Lightle                                    | Dana Dominguez                                |
 +=================================================+===============================================+
 | | Multimedia lab assistant                      | | Multimedia lab assistant                    |
+| | Educational Technology Center                 | | Educational Technology Center               |
++-------------------------------------------------+-----------------------------------------------+
+
++-------------------------------------------------+-----------------------------------------------+ 
+| .. image:: static/images/photos/Web-EricK.jpg   |.. image:: static/images/photos/Web-JakeN.jpg  |
+|  :width: 80                                     | :width: 90                                    |
++-------------------------------------------------+-----------------------------------------------+
+| Eric Khor                                       | Jake Nickel                                   |
++=================================================+===============================================+
+| | Multimedia lab assistant                      | | Technical Services                          |
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
@@ -98,25 +118,19 @@ Student Workers
 | .. image:: static/images/photos/web_chrisA.jpg  |.. image:: static/images/photos/Web_MattS.jpg  |
 |  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
-|  Chris Ansley                                   +  Matt Siegmann                                |
+|  Chris Ansley                                   |  Matt Siegmann                                |
 +=================================================+===============================================+
 | | Equipment Lending                             | | Equipment Lending                           |
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++-------------------------------------------------+-----------------------------------------------+
+| .. image:: static/images/photos/Web-TrentA.jpg  |.. image:: static/images/photos/Web-NathanP.jpg|
+|  :width: 95                                     | :width: 95                                    |
++-------------------------------------------------+-----------------------------------------------+
+|  Trent Arnaud                                   |  Nathan Pounds                                |
++=================================================+===============================================+
+| | Equipment Lending                             | | Equipment Lending                           |
+| | Educational Technology Center                 | | Educational Technology Center               |
++-------------------------------------------------+-----------------------------------------------+
 

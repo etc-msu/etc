@@ -7,15 +7,12 @@ urlpatterns = patterns('',
 if DEBUG == True:
 	urlpatterns += patterns('',
 		url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': PROJECT_DIR + '/media'}),
-		# This is what service will be soon
-		url(r'^service_request.html$', 'etc.views.tempredirect', {'path': 'etcetera/service/form'}),
+		# This is what checkout will be soon
 		url(r'^faculty_request_form.html$', 'etc.views.tempredirect', {'path': 'etcetera/checkout/form'}),
 	)
 
 if DEBUG == False:
 	urlpatterns += patterns('',
-		# Remove this line when service is done
-		url(r'^service_request.html$', 'etc.views.tempredirect', {'path': 'old/report_problem.htm'}),
 		# Remove this line when checkout is done
 		url(r'^faculty_request_form.html$', 'etc.views.tempredirect', {'path': 'old/request.htm'}),
 	)
@@ -27,6 +24,11 @@ urlpatterns += patterns('django.views.generic.simple',
 	url(r'^equipment$', 'redirect_to', {'url':'/equipment_description.html'}),
 	url(r'^policies$', 'redirect_to', {'url':'/lending_policies.html'}),
 	url(r'^service$', 'redirect_to', {'url':'/service_request.html'}),
+)
+
+# Links to Etcetera.
+urlpatterns += patterns('django.views.generic.simple',
+		url(r'^service_request.html$', 'redirect_to', {'url': '/etcetera/service/form'}),
 )
 
 urlpatterns += patterns('',

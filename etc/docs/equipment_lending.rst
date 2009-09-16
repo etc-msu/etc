@@ -7,8 +7,15 @@ Equipment Lending
    :width: 100
    
 Adam Beck
-============   | Equipment Lending Supervisor                                  | 003 Meyer Library	| Contact: 836-6834| Email:	AdamBeck@MissouriState.edu
+============   
+| Equipment Lending Supervisor                                  
+| Meyer Library	003
+| Contact: 836-6834
+| Email: AdamBeck@MissouriState.edu
 |
 
+Welcome to the Equipment Lending area!  We are so glad that you have chosen to look at this area. Our main area of expertise is in media equipment. Our services include delivery to classrooms, training, and technical support.
 
-Equipment Lending Supervisor, Adam Beck is skilled in the setup and support of multimedia equipment. As supervisor, Adam insures the quality of service delivered by ETC’s Equipment Lending area. This includes delivery to classrooms, training, and technical support for all equipment in the Equipment Lending inventory. The FAQ section of our website has a collection of solutions which has been accumulated over the years, please refer to this section for answers to the most commonly encountered issues. Below are the policies that relate to the Equipment Lending area. If you have further questions, please do not hesitate to call or e-mail `Adam Beck <AdamBeck@MissouriState.edu>`_.
+In this area, you will find many exciting features including equipment descriptions, information on training and the equipment request form. If you have questions, please check out the FAQ section of our website. The section has a lot of answers to questions that patrons have asked us time and time again.
+
+Please `take a look at the policies <lending_policies.html>`_ that are in place for this area. If you have further questions, please don’t hesitate to call or `email me <mailto:adambeck@missouristate.edu>`_.

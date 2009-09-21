@@ -8,13 +8,13 @@ if DEBUG == True:
 	urlpatterns += patterns('',
 		url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': PROJECT_DIR + '/media'}),
 		# This is what checkout will be soon
-		url(r'^faculty_request_form.html$', 'etc.views.tempredirect', {'path': 'etcetera/checkout/form'}),
+		url(r'^faculty_request_form.html$', 'django.views.generic.simple.redirect_to', {'url': '/etcetera/checkout/form/'}),
 	)
 
 if DEBUG == False:
-	urlpatterns += patterns('',
+	urlpatterns += patterns('django.views.generic.simple',
 		# Remove this line when checkout is done
-		url(r'^faculty_request_form.html$', 'etc.views.tempredirect', {'path': 'old/request.htm'}),
+		url(r'^faculty_request_form.html$', 'redirect_to', {'url': '/old/request.htm'}),
 	)
 
 # URL redirections.
@@ -24,6 +24,7 @@ urlpatterns += patterns('django.views.generic.simple',
 	url(r'^equipment$', 'redirect_to', {'url':'/equipment_description.html'}),
 	url(r'^policies$', 'redirect_to', {'url':'/lending_policies.html'}),
 	url(r'^service$', 'redirect_to', {'url':'/service_request.html'}),
+	url(r'^student_request_form.html$', 'redirect_to', {'url':'/static/pdf/student_request_form.pdf'}),
 )
 
 # Links to Etcetera.

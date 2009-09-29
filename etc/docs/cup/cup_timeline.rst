@@ -1,6 +1,6 @@
-============================================
-Classroom Upgrade Process Planning Time-Line
-============================================
+========================================================
+Classroom Upgrade Process Planning Time-Line / Document
+========================================================
 
 REVISED: April, 2009
 

@@ -37,8 +37,8 @@ The Contact Coordinator, Rebecca Grant, acts as the “hub” of the Center and 
 
 | **The ETC Contact Coordinator...**
 
-* Assists the Director to varying degrees in maintaining financial control of departmental accounts
-* Organizes, coordinates, and plans departmental events 
+* Organizes, coordinates, and plans departmental events and maintains the center's calender.
+* Assists the Director by maintaining financial records, reports, and tracking of departmental accounts.
 * Monitors and maintains files of applicants, preparing all required forms for master files
 * Remains competent and current by attending professional development classes
 * Supervises reception services, scheduling appointments, meetings, and travel, initiating recurring administrative processes

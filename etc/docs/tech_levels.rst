@@ -5,53 +5,46 @@ Technology Levels
 Overview
 ========
 
-The Educational Technology Center, with the approval of the appropriate academic and administrative bodies, has developed a set of standards for classroom technology installations on the campus of Missouri State University. 
+The Educational Technology Center, with the approval of the appropriate academic and administrative units, has developed a set of standards for classroom technology installations on the campus of Missouri State University. 
 
-The 3 levels outlined below are the most common installations found on the campus. While these are the established standard, variations to these can be permissible provided the change is warranted and feasible. Note any requested variation to established standards must be done in consultation with the Classroom Coordinator, `David Caravella <mailto:davidcaravella@missouristate.edu>`_.
+The 3 technology levels outlined below are the most common installations found on the campus. Each technology level describes the components and equipment that may be assigned to that category. While these are the established standards, any variations to classroom technology must be reviewed by the ETC. Contact the Classroom Coordinator, `David Caravella <mailto:davidcaravella@missouristate.edu>`_ at 65959.
 
-**Note**: while there is an established list of Level 3 “add-ons,” other specialized systems which must integrate into a classroom’s audio/video systems also qualify as Level 3 upgrades. These may be items such as microscope video systems, etc. Please review the standard classroom levels when considering the submission of a classroom upgrade request. 
+**Note**: Level 3 upgrades include the basic presentation standards found in Level 2, but may also include "add-ons" of other specialized systems that are integrated into the classroom’s audio/video systems. These items may include: interactive boards, document camera, microscope video systems, ITV, student computer, Student Response System (SRS), and other technologies. Please review the standard classroom levels when considering the submission of a classroom upgrade request. 
+
+
+Classroom Technology Levels and Equipment
+=========================================
+|
+
+| **Level I Classroom Technology**  
+| * Overhead Transparency Projector
+| * One (1) Network Dataport 
+|
+
+| **Level II Classroom Technology**
+| * Data/video projector
+| * Computer workstation
+| * DVD/VHS combo player
+| * Audio amplifier
+| * Media interface panel
+| * Spectrum Media Manager
+| * Chief RPA 193 Mount
+| * Peerless ceiling plate
+| * Wall screen & brackets
+| * VGA splitter & switcher
+| * All required audio/video cables & connectors
+|
+
+| **Level III Classroom Technology**
+| * Crestron Control Panel
+| * Document camera
+| * SMART Sympodium
+| * SMART AirLiner Tablet
+| * SMART Board 600
+| * Other
+|
 
 Contact Information
 ===================
 
 Contact `David Caravella <mailto:davidcaravella@missouristate.edu>`_, at 65959 if you have any questions.
-
-Classroom Technology Levels and Equipment
-=========================================
-
-Level I Classroom Technology  
-----------------------------
-
-Level I Classroom Technology consists of:
-
-* Overhead Transparency Projector
-* One (1) Network Dataport 
-
-Level II Classroom Technology
-------------------------------
-
-Level II Classroom Technology includes Level I Technology components and may include the following additional equipment: 
-
-* Data/video projector
-* Computer workstation
-* DVD/VHS combo player
-* Audio amplifier
-* Media interface panel
-* Spectrum Media Manager
-* Chief RPA 193 Mount
-* Peerless ceiling plate
-* Wall screen & brackets
-* VGA splitter & switcher
-* All required audio/video cables & connectors
-
-Level III Classroom Technology
-------------------------------
-
-Level III Classroom Technology includes Level I & Level II technology components and may include the following additional equipment: 
-
-* Crestron Control Panel
-* Document camera
-* SMART Sympodium
-* SMART AirLiner Tablet
-* SMART Board 600
-* Other

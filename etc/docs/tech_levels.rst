@@ -14,35 +14,38 @@ The 3 technology levels outlined below are the most common installations found o
 
 Classroom Technology Levels and Equipment
 =========================================
-|
 
-| **Level I Classroom Technology**  
-| * Overhead Transparency Projector
-| * One (1) Network Dataport 
-|
+Level I Classroom Technology
+----------------------------
+ 
+* Overhead Transparency Projector
+* One (1) Network Dataport 
 
-| **Level II Classroom Technology**
-| * Data/video projector
-| * Computer workstation
-| * DVD/VHS combo player
-| * Audio amplifier
-| * Media interface panel
-| * Spectrum Media Manager
-| * Chief RPA 193 Mount
-| * Peerless ceiling plate
-| * Wall screen & brackets
-| * VGA splitter & switcher
-| * All required audio/video cables & connectors
-|
+Level II Classroom Technology
+-----------------------------
 
-| **Level III Classroom Technology**
-| * Crestron Control Panel
-| * Document camera
-| * SMART Sympodium
-| * SMART AirLiner Tablet
-| * SMART Board 600
-| * Other
-|
+* Data/video projector
+* Computer workstation
+* DVD/VHS combo player
+* Audio amplifier
+* Media interface panel
+* Spectrum Media Manager
+* Chief RPA 193 Mount
+* Peerless ceiling plate
+* Wall screen & brackets
+* VGA splitter & switcher
+* All required audio/video cables & connectors
+
+Level III Classroom Technology
+------------------------------
+
+* Crestron Control Panel
+* Document camera
+* SMART Sympodium
+* SMART AirLiner Tablet
+* SMART Board 600
+* Other
+
 
 Contact Information
 ===================

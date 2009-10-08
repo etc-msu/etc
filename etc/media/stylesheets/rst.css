@@ -35,5 +35,13 @@
 
 /* Custom styles */
 
-div#classroom-technology-levels-and-equipment h2 { color: #4a0010; padding-top: 5px; font-weight: bold; border-bottom: none; }
-div#equipment-lending-faqs h2 { color: #222; font-weight: bold; border-bottom: none; }
+div#classroom-technology-faqs h2 { background-color:#D8D8D8; color: #4a0010; font-weight: bold; border-bottom: none; }
+div#equipment-lending-faqs h2 { background-color:#D8D8D8; color: #4a0010; font-weight: bold; border-bottom: none; }
+div#classroom-technology-levels-and-equipment h2 { background-color:#D8D8D8; color: #4a0010; padding-top: 1px; font-weight: bold; border-bottom: none; }
+div#classroom-upgrade-process h2 { color: #4a0010; font-weight: bold; border-bottom: none; }
+div#recommended-equipment h2 { background-color:#D8D8D8; text-align:center; color: #4a0010; font-weight: bold; border-bottom: none; }
+div#multimedia-lab h2 { background-color:#D8D8D8; color: #4a0010; font-weight: bold; border-bottom: none; }
+div#academic-scheduling h2 { color: #4a0010; font-weight: bold; border-bottom: none; }
+div#creative-services h2 { background-color:#D8D8D8; color: #4a0010; font-weight: bold; border-bottom: none; }
+div#classroom-upgrade-process h1 {color: #4a0010; font-weight: bold; border-bottom: none; }
+div#training h2 { color: #4a0010; font-weight: bold; font-family: Georgia; border-bottom: none; }

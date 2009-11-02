@@ -27,6 +27,8 @@ The first part of this session will include a brief review the fundamentals of p
 
 To Register for this training, `Click this link <https://www.secure.missouristate.edu/idp/courses/IDP5100.asp?Code=ETC751&who=ETC>`_
 
+---------------------------------------------------------------------------------------------
+
 Making Movies (Digital Video) Using iMovie Getting to Know iMovie
 -------------------------------------------------------------------
 *November 4th @ 11am / November 5th @ 2pm, in LIB 205*
@@ -34,6 +36,8 @@ Making Movies (Digital Video) Using iMovie Getting to Know iMovie
 Need post-production capabilities to edit a video, or just build video/audio clips for a presentation, or convert video material into a usable format? Whether it’s for a project or pleasure, getting a great-looking video presentation now takes less time, as long as you know some basics.  With iMovie '09, Apple has a consumer-level video editing application that's now easier than ever to use.  This session will introduce attendees to those basics, and will include hands-on experience to create your video and get it from iMovie into a format you can share with others.  This will be an hour-long session with 30 minutes for Q&A and additional hands-on.  Although time is reserved for Q&A, participants are encouraged to raise questions throughout the session.
 
 To book your session, `Click here to register <https://www.secure.missouristate.edu/idp/courses/IDP5100.asp?Code=ETC780&who=ETC>`_
+
+------------------------------------------------------------------------------------------------
 
 Useful Freeware
 ------------------

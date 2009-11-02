@@ -10,34 +10,15 @@ Table of Contents
 2009 Classroom Upgrades & Lifecycles
 ====================================
 
-2009 technology lifecycle upgrades will be commencing in the coming months and will be completed by the start of the fall 2009 semester. Click here for a list of room scheduled for lifecycle upgrades in FY 2009. For details regarding specifics about these lifecycle upgrades contact `David Caravella <mailto:davidcaravella@missouristate.edu>`_.
-
 New installs approved/completed FY ‘09
 --------------------------------------
 
-* SICL: 135, 136, 142, 143, 310, 311, 312, 407, 412
-
-Additional classroom SCUF funded installs done FY ‘09
------------------------------------------------------
-
-* PROF: 254, 262, 264, 279
+* CHEK:  205, 212* GLAS:  237* HILL:  463* KEMP:  204, 206, 211* KGSX:  217* PCOB:  324* PROF:  322* KARL:  103, 232* PROF:  329, 428* TEMP:  105
 
 Lifecycle upgrades approved/completed FY ‘09
 --------------------------------------------
 
-* ARTX: 09
-* CHEK: 102, 173
-* CRAG: 204, 315, 316, 320
-* ELLS: 226
-* GLAS: 101, 226, 431, 432, 433, 434, 435
-* HILL: 204, 310, 406
-* KEMP: 207
-* PROF: 224, 225, 365, 427
-* PUMM: 407
-* STRO: 01, 305, 408
-* TEMP: 02, 203, 213 
-* UNVH: 200, 201
-* WEHR: 112
+* ARTX:  09* CHEK:  102, 173* CRAG:  204, 315, 316, 320, 336* ELLS:   226* GLAS:  101, 226, 431, 432, 433, 434, 435* HILL:   105, 204, 208, 304, 305, 308, 309, 310, 311, 400, 406* KEMP:  207* LIBR:   205* PCOB:  231, 235* PROF:  224, 225, 233, 365, 427* PUMM: 407* SICL:   145, 275, 332* STRO:  01, 204, 301, 304, 305, 407, 408* TEMP:  01, 02, 03, 203, 213* UNVH:  200, 201* WEHR:  112
 
 2008 Classroom Upgrades & Lifecycles
 ================================================

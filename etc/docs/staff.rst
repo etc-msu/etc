@@ -60,7 +60,7 @@ Graduate Assistants
 
 +-------------------------------------------------+-----------------------------------------------+ 
 | .. image:: static/images/photos/Web-DhanM.jpg   |.. image:: static/images/photos/Web-ReviY.jpg  |
-|  :width: 90                                     | :width: 90                                    |
+|  :width: 80                                     | :width: 90                                    |
 +-------------------------------------------------+-----------------------------------------------+
 | Dhandapani Manohar                              | Revianna Yanry                                |
 +=================================================+===============================================+
@@ -99,6 +99,16 @@ Student Workers
 |  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 | Blue Lightle                                    | Dana Dominguez                                |
++=================================================+===============================================+
+| | Multimedia lab assistant                      | | Multimedia lab assistant                    |
+| | Educational Technology Center                 | | Educational Technology Center               |
++-------------------------------------------------+-----------------------------------------------+
+
++-------------------------------------------------+-----------------------------------------------+ 
+| .. image:: static/images/photos/Web-PhilM.jpg   |.. image:: static/images/photos/Web-.jpg       |
+|  :width: 100                                    | :width: 80                                    |
++-------------------------------------------------+-----------------------------------------------+
+| Philip Maple                                    | Kenny Wheeler                                 |
 +=================================================+===============================================+
 | | Multimedia lab assistant                      | | Multimedia lab assistant                    |
 | | Educational Technology Center                 | | Educational Technology Center               |

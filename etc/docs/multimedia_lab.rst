@@ -6,7 +6,7 @@ Multimedia Lab
    :width: 275
    :class: left
 
-Helpdesk: 836-6198
+Helpdesk: 836-6096
 ==================
 
 The Multimedia lab offers a range of digital/media tools and capabilities intended to search, explore, evaluate, and construct instructional/informational resources.  This environment engages faculty, students, and other end-users in information inquiry, creative processes, and the exchange of knowledge and ideas.  The lab is designed to encourage teaching and learning opportunities and enhance the life-long learner (student) experience at Missouri State University. 

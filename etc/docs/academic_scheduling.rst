@@ -11,8 +11,8 @@ Shelley Netzer
 | Academic Scheduler
 | 202 Meyer Library
 | Contact: 836-6625
-| Email: shelleynetzer@missouristate.edu
-| ETC Office Hours: M - F • 7:30 am - 4:00 pm (To be confirmed)
+| Email: roomscheduling@missouristate.edu
+| ETC Office Hours: M - F • 7:30 am - 4:00 pm
 |
                                                                        
 

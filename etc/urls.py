@@ -2,6 +2,7 @@ from django.conf.urls.defaults import *
 from etc.settings import PROJECT_DIR, DEBUG
 
 urlpatterns = patterns('',
+	url(r'^admin/jsi18n/$', 'django.views.i18n.javascript_catalog'),
 )
 
 if DEBUG == True:

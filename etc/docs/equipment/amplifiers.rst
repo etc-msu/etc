@@ -24,8 +24,5 @@ Amplifiers
 **Portable Tabletop Amplifier Lectern**
 
 
-.. image:: ../static/images/photos/ED_PortableAmpLecturn.jpg 
-	:width: 150 
-
 | This unit is a tabletop portable podium with built-in amplifier/speaker and microphone. 
 |

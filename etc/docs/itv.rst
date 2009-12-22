@@ -3,6 +3,7 @@ ITV Classrooms
 ===============
 
 Instructional TV and videoconferencing from the classrooms is supported by   **The Extended Campus - Academic Outreach and Distance Learning.**
+
 -	Phone: 1-417-836-4128
 -	Phone: 1-877-678-2005
 -	Email: ec@missouristate.edu

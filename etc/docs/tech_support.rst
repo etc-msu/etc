@@ -3,7 +3,7 @@ Technical Support: 836-4553
 ===========================
 
 .. image:: static/images/photos/TS-Jeff.jpg     
- :class: right                                                                      
+ :class: left                                                                      
  :width: 250
  
 Please call 836-4553 or use our `online service request form </service_request.html>`_ to report a problem or request installation or repair.

@@ -13,14 +13,14 @@ To review your needs contact:
 |
 
 For assistance in Graphic Services contact the **Extended Campus**:
--------------------------------------------------------------------
+===================================================================
 
 | **Valerie Cummings** 
 | Contact: 836-6664  | Email: ValerieCummings@missouristate.edu
 |
 
 For services listed below contact **Online Education**:
--------------------------------------------------------
+=======================================================
 
 | **Darren Young**
 | Contact: 836-6111

@@ -23,7 +23,7 @@ urlpatterns += patterns('django.views.generic.simple',
 # Links to Etcetera.
 urlpatterns += patterns('django.views.generic.simple',
 		url(r'^service_request.html$', 'redirect_to', {'url': '/etcetera/service/form'}),
-		url(r'^faculty_request_form.html$', 'django.views.generic.simple.redirect_to', {'url': '/etcetera/checkout/form/'}),
+		url(r'^faculty_request_form.html$', 'redirect_to', {'url': '/etcetera/checkout/form/'}),
 )
 
 urlpatterns += patterns('',

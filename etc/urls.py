@@ -8,14 +8,6 @@ urlpatterns = patterns('',
 if DEBUG == True:
 	urlpatterns += patterns('',
 		url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': PROJECT_DIR + '/media'}),
-		# This is what checkout will be soon
-		url(r'^faculty_request_form.html$', 'django.views.generic.simple.redirect_to', {'url': '/etcetera/checkout/form/'}),
-	)
-
-if DEBUG == False:
-	urlpatterns += patterns('django.views.generic.simple',
-		# Remove this line when checkout is done
-		url(r'^faculty_request_form.html$', 'redirect_to', {'url': '/old/request.htm'}),
 	)
 
 # URL redirections.
@@ -31,6 +23,7 @@ urlpatterns += patterns('django.views.generic.simple',
 # Links to Etcetera.
 urlpatterns += patterns('django.views.generic.simple',
 		url(r'^service_request.html$', 'redirect_to', {'url': '/etcetera/service/form'}),
+		url(r'^faculty_request_form.html$', 'django.views.generic.simple.redirect_to', {'url': '/etcetera/checkout/form/'}),
 )
 
 urlpatterns += patterns('',

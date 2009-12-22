@@ -13,10 +13,10 @@ The Multimedia lab offers a range of digital/media tools and capabilities intend
 
 The lab has 9 Windows PCs and 18 Apple iMacs that allow patrons to do anything from the scanning and manipulation of documents/photos, to importing/recording/editing audio and video, to creating original works of digital art.
 
-
 Media editing rooms:
-=====================The ETC has five individual media editing rooms with microphone to facilitate patrons in recording their own audio / podcasts. Reservation of this room can be done by contacting the Multimedia lab help desk.  
+=====================
 
+The ETC has five individual media editing rooms with microphone to facilitate patrons in recording their own audio / podcasts. Reservation of this room can be done by contacting the Multimedia lab help desk.  
 
 Multimedia Lab Workstations
 ===========================
@@ -25,7 +25,6 @@ Flatbed scanners
 ----------------
 
 For documents or printed photography that need to be scanned for digital use, the multimedia lab has several Mac and Windows stations equipped with flatbed EPSON scanners. Content can then be touched up and edited as needed in Photoshop, or content can be scanned straight to a file without the need to use Photoshop.
-
 
 .. image:: static/images/photos/MMlab1.JPG
    :width: 320

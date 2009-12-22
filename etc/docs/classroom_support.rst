@@ -14,7 +14,7 @@ Classroom Support
 | * For classroom support related to **technical issues or other inquiries**, contact ETC.
 | Between 7:30 AM – 4:00 PM call: 836-5778 
 | Between 4:00 PM – 9:30 PM call: 836-5350 
-| Submit work request: http://etc.missouristate.edu/etcetera/service/form/ 
+| Submit work request: http://etc.missouristate.edu/service/ 
 |
 |
 

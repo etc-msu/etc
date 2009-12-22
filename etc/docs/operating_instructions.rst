@@ -2,7 +2,6 @@
 Operating Instructions
 ========================
 
-
 .. image:: static/images/photos/MediaCartInstructions.jpg
  :width: 625
 

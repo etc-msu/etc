@@ -64,4 +64,4 @@ Student Policy
 
 Students and student organizations should contact the ETC office at 836-5778 regarding lending procedures since staff and/or faculty approval is required. Students are responsible for picking up and returning equipment borrowed.
 
-A copy of the required Student Organization Equipment Request form is `available for download </static/pdf/student_request_form.pdf>`_.
+A copy of the required Student Organization Equipment Request form is `available for download </student_request_form.html>`_.

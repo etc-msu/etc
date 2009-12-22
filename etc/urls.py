@@ -12,11 +12,11 @@ if DEBUG == True:
 
 # URL redirections.
 urlpatterns += patterns('django.views.generic.simple',
-	url(r'^request$', 'redirect_to', {'url':'/faculty_request_form.html'}),
-	url(r'^lending$', 'redirect_to', {'url':'/static/pdf/student_request_form.pdf'}),
-	url(r'^equipment$', 'redirect_to', {'url':'/equipment_description.html'}),
-	url(r'^policies$', 'redirect_to', {'url':'/lending_policies.html'}),
-	url(r'^service$', 'redirect_to', {'url':'/service_request.html'}),
+	url(r'^request/$', 'redirect_to', {'url':'/faculty_request_form.html'}),
+	url(r'^lending/$', 'redirect_to', {'url':'/student_request_form.html'}),
+	url(r'^equipment/$', 'redirect_to', {'url':'/equipment_description.html'}),
+	url(r'^policies/$', 'redirect_to', {'url':'/lending_policies.html'}),
+	url(r'^service/$', 'redirect_to', {'url':'/service_request.html'}),
 	url(r'^student_request_form.html$', 'redirect_to', {'url':'/static/pdf/student_request_form.pdf'}),
 )
 

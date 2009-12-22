@@ -14,8 +14,6 @@ Technical Services
 | Email: BobGerken@missouristate.edu           | Email: JeffJohnson@missouristate.edu          |
 +----------------------------------------------+-----------------------------------------------+  
 
-|
-| The ETC maintains a state-of-the-art electronic repair facility to diagnose and repair problems with media technology. Our technicians perform service, repair, and routine maintenance of electronic media, audiovisual equipment, and presentation systems. We also provide technical assistance and troubleshooting response for all ETC supported classrooms.
-|
+The ETC maintains a state-of-the-art electronic repair facility to diagnose and repair problems with media technology. Our technicians perform service, repair, and routine maintenance of electronic media, audiovisual equipment, and presentation systems. We also provide technical assistance and troubleshooting response for all ETC supported classrooms.
 
 Whether it involves bench work repairs, classroom installations, or system design, `Bob <bobgerken@missouristate.edu>`_ and `Jeff <jeffjohnson@missouristate.edu>`_ utilize years of hands-on experience and expertise into their media technology solutions. Their work impacts the university’s main mission of developing educated persons by directly contributing to our instructional capabilities within classroom environments and supplemental learning opportunities. 

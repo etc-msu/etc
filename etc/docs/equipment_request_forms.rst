@@ -2,7 +2,7 @@
 Equipment Request Forms
 ==========================
 
-* To access the Student Request form, `Click here <http://etc.missouristate.edu/static/pdf/student_request_form.pdf>`_.
+* To access the Student Request form, `Click here </student_request_form.html>`_.
 
-* To access the Faculty/Staff Equipment Request Form, `Visit this link <http://etc.missouristate.edu/old/request.htm>`_. 
+* To access the Faculty/Staff Equipment Request Form, `Visit this link </faculty_request_form.html>`_. 
 

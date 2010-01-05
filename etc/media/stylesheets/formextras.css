@@ -1,3 +1,5 @@
+/* @override http://localhost/static/stylesheets/formextras.css */
+
 .form table th { width: 125px; }
 .form input { width: 300px; -webkit-border-radius: 6px; -moz-border-radius: 6px; }
 .form input#id_coordinator_check { width: auto; margin-left: 15px; }
@@ -39,6 +41,7 @@ tr.errorlist th { padding-left: 5px; }
 .calendarnav-next { top: 0; right: 0; }
 .calendar-cancel { margin: 0 !important; padding: 0; font-size: 10px; background: #e1e1e1 url(../img/admin/nav-bg.gif) 0 50% repeat-x; border-top: 1px solid #ddd; }
 .calendar-cancel a { padding: 2px; color: #999; }
+p.datetime span:last-child { display: none; }
 
 ul.timelist, .timelist li { list-style-type: none; margin: 0; padding: 0; }
 .timelist a { padding: 2px; }

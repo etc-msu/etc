@@ -6,7 +6,7 @@ Main Staff
 ==========
 
 +-------------------------------------------------+-----------------------------------------------+
-| .. image:: static/images/photos/Web-AndyL.jpg   |.. image:: static/images/photos/Web-BeckyG.jpg |
+| .. image:: static/images/photos/Web-AndyL.jpg   |.. image:: static/images/photos/Web-RebeG.jpg  |
 |  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 | Andrew P. Lokie, Jr                             | Rebecca L. Grant, CPS                         |
@@ -18,10 +18,10 @@ Main Staff
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-DaveC.jpg   |.. image:: static/images/photos/Web-BenK.jpg   |
+| .. image:: static/images/photos/Web-DaveC.jpg   |.. image:: static/images/photos/Web-BenjK.jpg  |
 |  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
-| David R. Caravella, CPM                         | Ben Kreeger                                   |
+| David R. Caravella, CPM                         | Benjamin D. Kreeger                           |
 +=================================================+===============================================+
 | | Classroom Coordinator                         | | Multimedia Technology Specialist            |
 | | Educational Technology Center                 | | Educational Technology Center               |
@@ -30,7 +30,7 @@ Main Staff
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-BobG.jpg    |.. image:: static/images/photos/Web-JeffT.jpg  |
+| .. image:: static/images/photos/Web-RobeG.jpg   |.. image:: static/images/photos/Web-JeffJ.jpg  |
 |  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 | Robert E. Gerken                                | Jeffrey Johnson                               |
@@ -53,104 +53,100 @@ Main Staff
 | | Email: AdamBeck@missouristate.edu            |
 +------------------------------------------------+
 
-|
-
 Graduate Assistants
 ===================
 
 +-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-DhanM.jpg   |.. image:: static/images/photos/Web-ReviY.jpg  |
-|  :width: 80                                     | :width: 90                                    |
+| .. image:: static/images/photos/Web-KuriG.jpg   |.. image:: static/images/photos/Web-AndrR.jpg  |
+|  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
-| Dhandapani Manohar                              | Revianna Yanry                                |
+| Kurian George                                   | Andrew Richmond                               |
 +=================================================+===============================================+
 | | Graduate Assistant                            | | Graduate Assistant                          |
 | | Educational Technology Center                 | | Educational Technology Center               |
-| | Email: Dhandapani1@live.missouristate.edu     | | Email: Revianna87@live.missouristate.edu    |
+| | Email: Kurian007@live.missouristate.edu       | | Email: Andrew700@live.missouristate.edu     |
 +-------------------------------------------------+-----------------------------------------------+
-
-|
 
 Student Workers
 ===============
 
 +-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-MelodyG.jpg |.. image:: static/images/photos/Web-JeremyE.jpg|
-|  :width: 95                                     | :width: 95                                    |
+| .. image:: static/images/photos/Web-MeloG.jpg   |.. image:: static/images/photos/Web-JereE.jpg  |
+|  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 | Melody Gilbert                                  | Jeremy Evans                                  |
 +=================================================+===============================================+
+| | Office Assistant                              | | Office Assistant                            |
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-Brandi.jpg  |.. image:: static/images/photos/Web-EricT.jpg  |
-|  :width: 95                                     | :width: 80                                    |
+| .. image:: static/images/photos/Web-BranA.jpg   |.. image:: static/images/photos/Web-EricT.jpg  |
+|  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
-| Brandi                                          | Eric Taylor                                   |
+| Brandi Anderson                                 | Eric Taylor                                   |
 +=================================================+===============================================+
-| | Educational Technology Center                 | | Multimedia lab assistant / Special projects |
-|                                                 | | Educational Technology Center               |
+| | Office Assistant                              | | Multimedia Lab Assistant / Special Projects |
+| | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-SammieS.JPG |.. image:: static/images/photos/Web-SteveW.JPG |
-|  :width: 90                                     | :width: 90                                    |
+| .. image:: static/images/photos/Web-SammS.JPG   |.. image:: static/images/photos/Web-StevW.JPG  |
+|  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 | Sammie Stanley                                  | Steve Weis                                    |
 +=================================================+===============================================+
-| | Educational Technology Center                 | | Educational Technology Center               |
-|                                                 |                                               |
-+-------------------------------------------------+-----------------------------------------------+
-
-
-+-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-BlueL.jpg   |.. image:: static/images/photos/Web-DanaD.jpg  |
-|  :width: 80                                     | :width: 80                                    |
-+-------------------------------------------------+-----------------------------------------------+
-| Blue Lightle                                    | Dana Dominguez                                |
-+=================================================+===============================================+
-| | Multimedia lab assistant                      | | Multimedia lab assistant                    |
+| | Student Graphic Designer                      | | Student Graphic Designer                    |
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
-+-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-PhilM.jpg   |.. image:: static/images/photos/Web-.jpg       |
-|  :width: 100                                    | :width: 80                                    |
-+-------------------------------------------------+-----------------------------------------------+
-| Philip Maple                                    | Kenny Wheeler                                 |
-+=================================================+===============================================+
-| | Multimedia lab assistant                      | | Multimedia lab assistant                    |
-| | Educational Technology Center                 | | Educational Technology Center               |
-+-------------------------------------------------+-----------------------------------------------+
++-----------------------------------------------+-------------------------------------------------+ 
+|.. image:: static/images/photos/Web-DanaD.jpg  | .. image:: static/images/photos/Web-PhilM.jpg   |
+| :width: 80                                    |  :width: 80                                     |
++-----------------------------------------------+-------------------------------------------------+
+| Dana Dominguez                                | Philip Maple                                    |
++===============================================+=================================================+
+| | Multimedia Lab Assistant                    | | Multimedia Lab Assistant                      |
+| | Educational Technology Center               | | Educational Technology Center                 |
++-----------------------------------------------+-------------------------------------------------+
+
++-----------------------------------------------+-------------------------------------------------+ 
+|.. image:: static/images/photos/Web-KennW.jpg  | .. image:: static/images/photos/Web-SimoC.jpg   |
+| :width: 80                                    |  :width: 80                                     |
++-----------------------------------------------+-------------------------------------------------+
+| Kenny Wheeler                                 | Simon Chan                                      |
++===============================================+=================================================+
+| | Multimedia Lab Assistant                    | | Multimedia Lab Assistant                      |
+| | Educational Technology Center               | | Educational Technology Center                 |
++-----------------------------------------------+-------------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+ 
 | .. image:: static/images/photos/Web-EricK.jpg   |.. image:: static/images/photos/Web-JakeN.jpg  |
-|  :width: 80                                     | :width: 90                                    |
+|  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 | Eric Khor                                       | Jake Nickel                                   |
 +=================================================+===============================================+
-| | Multimedia lab assistant                      | | Technical Services                          |
+| | Multimedia Lab Assistant                      | | Technical Services Assistant                |
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+
-| .. image:: static/images/photos/web_chrisA.jpg  |.. image:: static/images/photos/Web_MattS.jpg  |
+| .. image:: static/images/photos/Web-ChriA.jpg   |.. image:: static/images/photos/Web-MattS.jpg  |
 |  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 |  Chris Ansley                                   |  Matt Siegmann                                |
 +=================================================+===============================================+
-| | Equipment Lending                             | | Equipment Lending                           |
+| | Equipment Lending Assistant                   | | Equipment Lending Assistant                 |
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 
 +-------------------------------------------------+-----------------------------------------------+
-| .. image:: static/images/photos/Web-TrentA.jpg  |.. image:: static/images/photos/Web-NathanP.jpg|
-|  :width: 95                                     | :width: 95                                    |
+| .. image:: static/images/photos/Web-TrenA.jpg   |.. image:: static/images/photos/Web-NathP.jpg  |
+|  :width: 80                                     | :width: 80                                    |
 +-------------------------------------------------+-----------------------------------------------+
 |  Trent Arnaud                                   |  Nathan Pounds                                |
 +=================================================+===============================================+
-| | Equipment Lending                             | | Equipment Lending                           |
+| | Equipment Lending Assistant                   | | Equipment Lending Assistant                 |
 | | Educational Technology Center                 | | Educational Technology Center               |
 +-------------------------------------------------+-----------------------------------------------+
 

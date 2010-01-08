@@ -41,17 +41,17 @@ Main Staff
 | | Email: BobGerken@missouristate.edu            | | Email: JeffJohnson@missouristate.edu        |
 +-------------------------------------------------+-----------------------------------------------+
 
-+-------------------------------------------------+-----------------------------------------------+ 
-| .. image:: static/images/photos/Web-ShelleyN.jpg|.. image:: static/images/photos/Web-AdamB.jpg  |
-|  :width: 80                                     | :width: 80                                    |
-+-------------------------------------------------+-----------------------------------------------+
-| Shelley M. Netzer                               | Adam C. Beck                                  |
-+=================================================+===============================================+
-| | Academic Scheduling Coordinator               | | Equipment Lending Supervisor                |
-| | Educational Technology Center                 | | Educational Technology Center               |
-| | Contact: (417) 836-6625 Fax (417) 836-4554    | | Contact: (417) 836-6834 Fax (417) 836-4554  |
-| | Email: ShelleyNetzer@missouristate.edu        | | Email: AdamBeck@missouristate.edu           |
-+-------------------------------------------------+-----------------------------------------------+
++------------------------------------------------+ -----------------------------------------------+
+| .. image:: static/images/photos/Web-AdamB.jpg  |                                                |
+|  :width: 80                                    |                                                |
++------------------------------------------------+------------------------------------------------+
+| Adam C. Beck                                   |                                                |
++================================================+================================================+
+| | Equipment Lending Supervisor                 |                                                |
+| | Educational Technology Center                |                                                |
+| | Contact: (417) 836-6834 Fax (417) 836-4554   |                                                |
+| | Email: AdamBeck@missouristate.edu            |                                                |
++------------------------------------------------+------------------------------------------------+
 
 |
 

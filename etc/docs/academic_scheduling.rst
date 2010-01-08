@@ -4,7 +4,7 @@ Academic Scheduling
    
 Shelley Netzer  
 ==============
-| Academic Scheduler
+| Academic Scheduler, `Academic Outreach <http://ce.missouristate.edu/outreach/>`_
 | Contact: 836-6625
 | Email: roomscheduling@missouristate.edu
 |

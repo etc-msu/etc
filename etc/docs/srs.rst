@@ -14,7 +14,6 @@ Faculty and students who are having trouble setting up or using the eInstruction
 -	Monday thru Friday 7:00AM – 8:00PM CST
 -	Additional support information can be found at `eInstruction Customer Support <http://einstruction.com/support_downloads/index.html>`_
 -	Faculty may also contact David Caravella at X65959 for assistance or information.  
--	
 
 September 25, 2006
 ==================
@@ -30,7 +29,15 @@ As with all dealings, students should take every measure possible to safeguard t
 
 *Dear Missouri State students, faculty & staff,*
 
-*eInstruction doesn’t keep credit card information on our servers and we instruct our tech support folks to never write down a credit card number if they are* *assisting a student.  Our policy is to never call a student to seek credit card information, but to have students call us if they need reimbursement of the* *enrollment code.*   | *Regards,* | *Darrell Ward, PhD* | *President and CEO, eInstruction Corporation* | *http://www.einstruction.com* | *888-707-6819*
+*eInstruction doesn’t keep credit card information on our servers and we instruct our tech support folks to never write down a credit card number if they are* *assisting a student.  Our policy is to never call a student to seek credit card information, but to have students call us if they need reimbursement of the* *enrollment code.*
+
+*Regards,*
+
+| *Darrell Ward, PhD*
+| *President and CEO, eInstruction Corporation*
+| *http://www.einstruction.com*
+| *888-707-6819*
+| 
 
 August 31, 2006
 ===============

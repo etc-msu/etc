@@ -24,10 +24,11 @@ ITV Technical Support
 =====================
 
 For ITV Technical support, design and/or spec recommendations, or consults contact:
-| John Flanders 
-| Distance Learning Chief Engineer  
-| 417.836.6078 
-| johnflanders@missouristate.edu
+
+| Joe Strong 
+| Distance Learning Engineer, Extended Campus
+| 417.836.6421 
+| joestrong@missouristate.edu
 |
 
 ITV Classrooms

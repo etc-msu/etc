@@ -62,6 +62,8 @@ input[type=file] { background: none; padding: 0; border: none; }
 .sidebar .hours h5 { margin-bottom: 0; font: bold 11px/20px verdana, arial, sans-serif; color: #111; }
 .sidebar .hours p { margin-bottom: 0; font: normal 11px/20px verdana, arial, sans-serif; }
 
+.callout { padding: 10px; border: 1px solid #555; background-color: #DDD; width: 388px; }
+
 .looking_for { padding: 10px; width: 388px; border: 1px solid #ddd; -webkit-border-radius: 4px; -moz-border-radius: 4px; }
 .looking_for h2 { margin-bottom: 5px; font-weight: bold; font-size: 16px; line-height: 21px; color: #333; }
 .looking_for ul { margin-bottom: 0; padding: 0; list-style: none; font-size: 13px; line-height: 18px; }

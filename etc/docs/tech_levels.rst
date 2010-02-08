@@ -7,7 +7,7 @@ Overview
 
 The Educational Technology Center, with the approval of the appropriate academic and administrative units, has developed a set of standards for classroom technology installations on the campus of Missouri State University. 
 
-The 3 technology levels outlined below are the most common installations found on the campus. Each technology level describes the components and equipment that may be assigned to that category. While these are the established standards, any variations to classroom technology must be reviewed by the ETC. Contact the Classroom Coordinator, `David Caravella <mailto:davidcaravella@missouristate.edu>`_ at 65959.
+The 3 technology levels outlined below are the most common installations found on the campus. Each technology level describes the components and equipment that may be assigned to that category. While these are the established standards, any variations to classroom technology must be reviewed by the ETC. Contact the Classroom Coordinator, `David Caravella <mailto:davidcaravella@missouristate.edu>`_ at (417) 836-5959 or the ETC Director, `Andrew Lokie <mailto:andrewlokie@missouristate.edu>`_ at (417) 836-4807.
 
 **Note**: Level 3 upgrades include the basic presentation standards found in Level 2, but may also include "add-ons" of other specialized systems that are integrated into the classroom’s audio/video systems. These items may include: interactive boards, document camera, microscope video systems, ITV, student computer, Student Response System (SRS), and other technologies. Please review the standard classroom levels when considering the submission of a classroom upgrade request. 
 

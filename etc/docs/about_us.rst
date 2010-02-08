@@ -8,7 +8,7 @@ About Us
    
 Andrew P. Lokie, Jr
 ===================                                 
-| Director and LIS Faculty
+| Director and Assistant Professor
 | 203 Meyer Library
 | Contact: 836-4807
 | Email: AndrewLokie@missouristate.edu
@@ -20,7 +20,7 @@ Whether it involves; using multimedia to assign engaging class projects or train
 
 --------------------------------------------------------------------------- 
 
-.. image:: static/images/photos/Web-BeckyG.jpg
+.. image:: static/images/photos/Web-RebeG.jpg
    :class: left
    :width: 100
    

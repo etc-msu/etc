@@ -11,7 +11,7 @@ Main Staff
 +-------------------------------------------------+-----------------------------------------------+
 | Andrew P. Lokie, Jr                             | Rebecca L. Grant, CPS                         |
 +=================================================+===============================================+
-| | Director and LIS Faculty                      | | Contact Coordinator                         |
+| | Director and Assistant Professor              | | Contact Coordinator                         |
 | | Educational Technology Center                 | | Educational Technology Center               |
 | | Contact: (417) 836-4807 Fax (417) 836-4554    | | Contact: (417) 836-5778 Fax (417) 836-4554  |
 | | Email: AndrewLokie@missouristate.edu          | | Email: RebeccaGrant@missouristate.edu       |

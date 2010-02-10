@@ -2,7 +2,7 @@
 ETC Labs
 ================
 
-.. image:: static/images/photos/Web-BenK.jpg
+.. image:: static/images/photos/Web-BenjK.jpg
    :class: left
    :width: 100
 

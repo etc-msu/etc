@@ -107,7 +107,7 @@ Computers
 --------------------------------------------------------
 
 * `Windows PC Laptop Computer <equipment/laptop_computers.html#Windows PC Laptop Computer>`_
-* `Apple MackBook Laptop Computer (Dual boot) <equipment/laptop_computers.html#Apple MackBook Laptop Computer (Dual boot)>`_
+* `Apple MacBook Laptop Computer (Dual boot) <equipment/laptop_computers.html#Apple MacBook Laptop Computer (Dual boot)>`_
 
 
 `Computer Accessories <equipment/computer_accessories.html>`_

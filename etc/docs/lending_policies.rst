@@ -25,21 +25,6 @@ Equipment can be picked up from 7:30 a.m. to 5 p.m., Monday - Friday. If you nee
 
 If the items you have checked out are stolen or are found damaged upon return, you will be assessed replacement costs for that item.
 
-Late Fine Policy on Requestor Equipment Returns
-===============================================
-
-There are late fines assessed for equipment that is returned late. These fines apply to all faculty, staff and student patrons. We have a thirty minute grace period from the time that is on your order for your items to be returned. After that, the policy goes into effect.
-
-Please pay your late fee to ETC staff in LIB 003 with cash or check.
-
-+----------------------------------+------------+
-| 30 minutes to 1 hour late        |      $1.00 |
-+----------------------------------+------------+
-| 1 hour to all day late           |      $6.00 |
-+----------------------------------+------------+
-| Each additional day late         | plus $5.00 |
-+----------------------------------+------------+
-
 Faculty and Staff
 =================
 

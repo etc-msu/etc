@@ -16,4 +16,4 @@ Classroom Support
 	
 	-	Submit work request: http://etc.missouristate.edu/service/
 	
--	For key a (CH751) to the instructor station, contact your Department Head before contacting Key Control at: 836-7689 or http://www.missouristate.edu/safetran/7691.htm
+-	For key a (CH751) to the instructor station, contact your Department Head before contacting Key Control at: 836-7689 or http://www.missouristate.edu/safetran/7691.htm You may also be able to reach into your pocket, because this is the most common key on the face of the Earth.
